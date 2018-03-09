@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2013, Qualcomm Technologies, Inc.
+  All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+-->
+<resources>
+
+    <color name="tabBgColor">#CECACE</color>
+    <color name="pathBgColor">#EAEAEA</color>
+    <color name="pathTextColor">#1A1A1A</color>
+    <color name="tabTextColor">#5e5e5e</color>
+    <color name="griditemtitleColor">#3b3b3b</color>
+    <color name="tabTextSelectedColor">@android:color/white</color>
+	<color name="colorPrimary">#3F51B5</color>
+    <color name="black_three">#333333</color>
+    <color name="connect_background">#eaebeb</color>
+    <color name="gray_stroke">#dce0e0</color>
+    <color name="white">#FFFFFF</color>
+	<color name="blue_c">#3e94ea</color>
+
+</resources>

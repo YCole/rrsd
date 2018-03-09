@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2013, Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Qualcomm Technologies Proprietary and Confidential.
+ */
+ -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_copy"
+          android:title="@string/menu_copy"
+          android:icon="@drawable/ic_menu_copy_holo_light"
+          android:showAsAction="always" />
+    <item android:id="@+id/action_move"
+          android:title="@string/menu_move"
+          android:icon="@drawable/ic_menu_cut_holo_light"
+          android:showAsAction="always" />
+    <item android:id="@+id/action_delete"
+          android:title="@string/menu_delete"
+          android:icon="@drawable/ic_menu_trash_holo_light"
+          android:showAsAction="always" />
+    <item android:id="@+id/action_share"
+          android:title="@string/menu_share"
+          android:icon="@drawable/ic_menu_share_holo_light"
+          android:showAsAction="always" />
+
+    <item android:id="@+id/action_add_favorite"
+          android:title="@string/menu_add_favorite"
+          android:showAsAction="never" />
+    <item android:id="@+id/action_rm_favorite"
+          android:title="@string/menu_rm_favorite"
+          android:showAsAction="never" />
+    <item android:id="@+id/action_rename"
+          android:title="@string/menu_rename"
+          android:showAsAction="never" />
+    <item android:id="@+id/action_detail"
+          android:title="@string/menu_detail"
+          android:showAsAction="never" />
+</menu>

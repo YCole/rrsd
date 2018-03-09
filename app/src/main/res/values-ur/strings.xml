@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">ہیلو ورلڈ، QRDFileExplorer!</string>
+    <string name="app_name">فائل ایکسپلورر</string>
+    <string name="app_name_dir_sel">فولڈر منتخب کریں</string>
+    <string name="app_name_file_sel">فائلوں کا انتخاب کریں</string>
+    <string name="up">اوپر</string>
+    <string name="menu_copy">کاپی کریں</string>
+    <string name="menu_move">منتقل کریں</string>
+    <string name="menu_delete">حذف کریں</string>
+    <string name="menu_detail">تفصیلات</string>
+    <string name="menu_rename">نام تبدیل کریں</string>
+    <string name="menu_share">اشتراک کریں</string>
+    <string name="menu_property">پراپرٹیز</string>
+    <string name="menu_setto">پر سیٹ</string>
+    <string name="menu_setto_ringtone">رنگ ٹون پر سیٹ کریں</string>
+    <string name="menu_exit">باہر نکلیں</string>
+    <string name="menu_mulsel">سبھی کو منتخب کریں</string>
+    <string name="sort_name_asc">asc نام کے مطابق</string>
+    <string name="sort_name_dec">dec نام کے مطابق</string>
+    <string name="sort_type_asc">asc قسم کے مطابق</string>
+    <string name="sort_type_dec">dec قسم کے مطابق</string>
+    <string name="sort_size_asc">asc سائز کے مطابق</string>
+    <string name="sort_size_dec">dec سائز کے مطابق</string>
+    <string name="sort_time_asc">asc وقت کے مطابق</string>
+    <string name="sort_time_dec">dec وقت کے مطابق</string>
+    <string name="menu_add_favorite">پسندیدہ میں شامل کریں</string>
+    <string name="menu_rm_favorite">پسندیدہ سے ہٹائيں</string>
+    <string name="context_menu_name">فائل کے اختیارات</string>
+    <string name="dialog_deleting_confirm">کیا آپ حذف کرنا چاہتے ہیں؟</string>
+    <string name="dialog_overwrite_confirm">کیا آپ فائل %s کو اوور رائٹ کرنا چاہتے ہیں؟</string>
+    <string name="dialog_rename_title">براہ مہربانی نیا نام ان پٹ کریں.</string>
+    <string name="dialog_space_not_enough">کافی جگہ نہیں ہے، براہ کرم پہلے اسے صاف کریں۔</string>
+    <string name="toast_operate_failed">آپریٹ ناکام ہوگیا!</string>
+    <string name="progress_title">انتظار کر رہا ہے</string>
+    <string name="progress_copy_title">پیسٹ کرنا</string>
+    <string name="progress_move_title">منتقل ہو رہا ہے</string>
+    <string name="progress_delete_title">حذف کرنا</string>
+    <string name="phone_storage">فون اسٹوریج</string>
+    <string name="internal_storage">داخلی اسٹوریج</string>
+    <string name="sdcard">‏SD کارڈ</string>
+    <string name="storage_sd_card">‏SD کارڈ</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">‏USB اسٹوریج</string>
+    <string name="storage_uicc">UICC اسٹوریج</string>
+    <string name="property_info_total">کل:</string>
+    <string name="property_info_available">دستیاب:</string>
+    <string name="format_file_info">&quot;نام: %1$s راہ: %2$s ترمیم شدہ: %3$s سائز: %4$s&quot;</string>
+    <string name="format_property_info">&quot;اندرونی کل ذخیرہ: %1$s دستیاب: %2$s ------------------ SD کارڈ کل: %3$s دستیاب: %4$s ------------------ USB کل: %5$s دستیاب: %6$s&quot;</string>
+    <string name="menu_new_folder">نیا فولڈر</string>
+    <string name="new_folder">نیا فولڈر بنائيں</string>
+    <string name="btn_ok">ٹھیک ہے</string>
+    <string name="btn_paste">پیسٹ کریں</string>
+    <string name="btn_cancel">منسوخ کریں</string>
+    <string name="toast_select_files">براہ کرم فائلیں منتخب کریں</string>
+    <string name="toast_no_sd">کوئی SD کارڈ نہیں</string>
+    <string name="toast_no">&quot;نہیں  &quot;</string>
+    <string name="toast_file_exists">آپریٹ ناکام ہوگیا۔ فائل موجود ہے۔</string>
+    <string name="toast_file_not_exists">آپریٹ ناکام ہوگیا۔ فائل موجود نہیں ہے۔</string>
+    <string name="toast_file_setto_ringtone_successed">رنگ ٹون سیٹ کرنا کامیاب ہوگیا</string>
+    <string name="open_as">کھولیں بطور</string>
+    <string name="type_text">متن</string>
+    <string name="type_audio">آڈیو</string>
+    <string name="type_video">ویڈیو</string>
+    <string name="type_image">تصویر</string>
+    <string name="toast_filename_too_long">آپریٹ ناکام ہوگیا۔ فائل کا نام بہت بڑھا ہے۔</string>
+    <string name="toast_delete_success">حذف کامیاب</string>
+    <string name="category">زمرے</string>
+    <string name="folder">فولڈر</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">میوزک</string>
+    <string name="video">ویڈیو</string>
+    <string name="image">تصویر</string>
+    <string name="doc">ڈاک</string>
+    <string name="archive">آرکائیو کریں</string>
+    <string name="apk">APK</string>
+    <string name="favorite">پسندیدہ</string>
+    <string name="toast_new_success">تخلیق کامیاب</string>
+    <string name="toast_filename_empty">آپریٹ ناکام ہوگیا۔ فائل کا نام خالی نہیں رکھا جاسکتا۔</string>
+    <string name="toast_activity_not_found">&quot;اس فائل کو کھولنے کیلئے ایپلیکیشن تلاش نہیں کر سکتا ہے&quot;</string>
+    <string name="select_all">سبھی کو منتخب کریں</string>
+    <string name="deselect_all">تمام کو غیر منتخب کریں</string>
+    <string name="folder_name_reach_max_hint">ان پٹ کی لمبائی %1$d حروف سے زیادہ نہیں ہے !</string>
+    <string name="load_warning">لوڈ ہو رہا ہے...</string>
+    <string name="str_err_internal_storage_cannot_access">ذخیرہ ان ماؤنٹ کردیا گیا، رسائی نہیں کی جاسکتی۔</string>
+    <string name="str_err_sdcard_cannot_access">Sd ان ماؤنٹ کردیا گیا، رسائی نہیں کی جاسکتی۔براہ کرم Sd کارڈ چیک کریں۔</string>
+    <string name="menu_sort">ترتیب دیں</string>
+    <string name="sort_title">ترتیب دیں بذریعے</string>
+    <string name="no_space">&quot;کافی جگہ نہیں ہے، براہ کرم \u0009\u0009\u0009\u0009\u0009 پہلے اسے صاف کریں&quot;</string>
+    <string name="menu_show">پوشیدہ فائلیں دکھائيں</string>
+    <string name="menu_hide">پوشیدہ فائلیں چھپائيں</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">false</item>
+</resources>

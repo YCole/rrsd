@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">ഹലോ വേള്‍ഡ്, QRDഫയല്‍ എക്സ്പ്ലോറര്‍</string>
+    <string name="app_name">ഫയല്‍ എക്സ്‍പ്ലോറര്‍</string>
+    <string name="app_name_dir_sel">ഫോൾഡർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="app_name_file_sel">ഫയൽ തിരഞ്ഞെടുക്കുക</string>
+    <string name="up">മുകളിലേയ്ക്ക്</string>
+    <string name="menu_copy">പകര്‍ത്തുക</string>
+    <string name="menu_move">നീക്കുക</string>
+    <string name="menu_delete">ഇല്ലാതാക്കുക</string>
+    <string name="menu_detail">വിശദാംശങ്ങള്‍‌</string>
+    <string name="menu_rename">പുനർനാമകരണം</string>
+    <string name="menu_share">പങ്കിടുക</string>
+    <string name="menu_property">പ്രോപ്പര്‍ട്ടീസ്</string>
+    <string name="menu_setto">സജ്ജമാക്കി</string>
+    <string name="menu_setto_ringtone">റിംഗ്ടോണിലേക്ക് സജ്ജമാക്കുക</string>
+    <string name="menu_exit">പുറത്തുകടക്കുക</string>
+    <string name="menu_mulsel">എല്ലാം തിരഞ്ഞെടുക്കുക</string>
+    <string name="sort_name_asc">പേര് അനുസരിച്ച് ആരോഹണക്രമം</string>
+    <string name="sort_name_dec">പേര് പ്രകാരം അവരോഹണം</string>
+    <string name="sort_type_asc">തരം പ്രകാരം ആരോഹണം</string>
+    <string name="sort_type_dec">തരം പ്രകാരം അവരോഹണം</string>
+    <string name="sort_size_asc">വലുപ്പം പ്രകാരം ആരോഹണം</string>
+    <string name="sort_size_dec">വലുപ്പം പ്രകാരം അവരോഹണം</string>
+    <string name="sort_time_asc">സമയം പ്രകാരം ആരോഹണക്രമം</string>
+    <string name="sort_time_dec">സമയം പ്രകാരം അവരോഹണം</string>
+    <string name="menu_add_favorite">പ്രിയപ്പെട്ടവയിൽ ചേർക്കുക</string>
+    <string name="menu_rm_favorite">പ്രിയപ്പെട്ടവയിൽ നിന്നും നീക്കംചെയ്യുക</string>
+    <string name="context_menu_name">ഫയൽ ഓപ്ഷനുകൾ</string>
+    <string name="dialog_deleting_confirm">നിക്കം ചെയ്യണമെന്ന് ഉറപ്പാണോ?</string>
+    <string name="dialog_overwrite_confirm">%s ഫയൽ നിങ്ങള്‍ക്ക് ഓവര്‍റൈറ്റ് ചെയ്യണോ?</string>
+    <string name="dialog_rename_title">ദയവായി പുതിയ പ്രൊഫൈൽ പേര് നല്‍കുക</string>
+    <string name="dialog_space_not_enough">വേണ്ടത്ര സ്ഥലം ഇല്ല, ആദ്യം അത് വൃത്തിയാക്കുക.</string>
+    <string name="toast_operate_failed">പ്രവര്‍ത്തനം പരാജയപ്പെട്ടു!</string>
+    <string name="progress_title">കാത്ത് നില്‍ക്കുന്നു</string>
+    <string name="progress_copy_title">ഒട്ടിക്കുന്നു</string>
+    <string name="progress_move_title">നീക്കുന്നു</string>
+    <string name="progress_delete_title">ഇല്ലാതാക്കുന്നു</string>
+    <string name="phone_storage">ഫോൺ സംഭരണം</string>
+    <string name="internal_storage">ആന്തരിക സംഭരണം</string>
+    <string name="sdcard">SD കാർഡ്</string>
+    <string name="storage_sd_card">SD കാർഡ്</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">USB സംഭരണം</string>
+    <string name="storage_uicc">UICC സംഭരണം</string>
+    <string name="property_info_total">മൊത്തം:</string>
+    <string name="property_info_available">ലഭ്യമാണ്:</string>
+    <string name="format_file_info">പേര്: %1$s പാത്ത്: %2$s പരിഷ്കരിച്ചത്： %3$s വലുപ്പം: %4$s</string>
+    <string name="format_property_info">&quot;ആന്തരിക സ്റ്റോറേജ് ആകെ: %1$s ലഭ്യമാണ് %2$s ------------------ SD കാർഡ് ആകെ: %3$s ലഭ്യമാണ് %4$s ------------------ USB ആകെ: %5$s ലഭ്യമാണ് %6$s</string>
+    <string name="menu_new_folder">പുതിയ ഫോൾഡർ</string>
+    <string name="new_folder">ഒരു പുതിയ ഫോള്‍ഡര്‍ ഉണ്ടാക്കുക</string>
+    <string name="btn_ok">ശരി</string>
+    <string name="btn_paste">ഒട്ടിക്കുക</string>
+    <string name="btn_cancel">റദ്ദാക്കുക</string>
+    <string name="toast_select_files">ദയവായി ഫയലുകള്‍ തിരഞ്ഞെടുക്കുക.</string>
+    <string name="toast_no_sd">SD കാർഡ് ഒന്നുമില്ല</string>
+    <string name="toast_no">&quot;ഇല്ല  &quot;</string>
+    <string name="toast_file_exists">പ്രവര്‍ത്തനം പരാജയപ്പെട്ടു. ഫയല്‍ നിലവിലുണ്ട്.</string>
+    <string name="toast_file_not_exists">പ്രവര്‍ത്തനം പരാജയപ്പെട്ടു. ഫയല്‍ നിലവിലില്ല.</string>
+    <string name="toast_file_setto_ringtone_successed">റിംഗ്ടോണ്‍ സജ്ജമാക്കല്‍ വിജയകരം</string>
+    <string name="open_as">തുറക്കുക</string>
+    <string name="type_text">ടെക്സ്റ്റ്</string>
+    <string name="type_audio">ഓഡിയോ</string>
+    <string name="type_video">വീഡിയോ</string>
+    <string name="type_image">ചിത്രം</string>
+    <string name="toast_filename_too_long">പ്രവര്‍ത്തനം പരാജയപ്പെട്ടു. ഫയല്‍ നാമം വളരെ നീളമുള്ളതാണ്.</string>
+    <string name="toast_delete_success">ഇല്ലാതാക്കി</string>
+    <string name="category">വിഭാഗം</string>
+    <string name="folder">ഫോൾഡർ</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">സംഗീതം</string>
+    <string name="video">വീഡിയോ</string>
+    <string name="image">ചിത്രം</string>
+    <string name="doc">Doc</string>
+    <string name="archive">ആര്‍ക്കൈവുചെയ്യുക</string>
+    <string name="apk">APK</string>
+    <string name="favorite">പ്രിയപ്പെട്ടവ</string>
+    <string name="toast_new_success">വിജയകരമായി സൃഷ്ടിക്കുക</string>
+    <string name="toast_filename_empty">പ്രവര്‍ത്തനം പരാജയപ്പെട്ടു. ഫയലിന്റെ പേര് ശൂന്യമായിരിക്കാന്‍ പാടില്ല.</string>
+    <string name="toast_activity_not_found">&quot;ഈ ഫയൽ തുറക്കുന്നതിനുള്ള ഒരു ആപ്ലിക്കേഷൻ കണ്ടെത്താന്‍ കഴിഞ്ഞില്ല&quot;</string>
+    <string name="select_all">എല്ലാം തിരഞ്ഞെടുക്കുക</string>
+    <string name="deselect_all">എല്ലാം തിരഞ്ഞെടുത്തത് മാറ്റുക</string>
+    <string name="folder_name_reach_max_hint">ഇൻപുട്ട് ദൈർഘ്യം %1$d പ്രതീകങ്ങളേക്കാള്‍ കൂടാന്‍ പാടില്ല!</string>
+    <string name="load_warning">ലോഡുചെയ്യുന്നു…</string>
+    <string name="str_err_internal_storage_cannot_access">സ്റ്റോറേജ് അൺമൗണ്ട് ചെയ്തു, ആക്സസ് ചെയ്യാൻ കഴിയുന്നില്ല.</string>
+    <string name="str_err_sdcard_cannot_access">SD കാർഡ് അൺമൗണ്ട് ചെയ്തു, ആക്സസ് ചെയ്യാന്‍ കഴിയില്ല. ദയവായി SD കാർഡ് പരിശോധിക്കുക.</string>
+    <string name="menu_sort">ക്രമീകരിക്കുക</string>
+    <string name="sort_title">ഇതുപ്രകാരം അടുക്കുക</string>
+    <string name="no_space">&quot;വേണ്ടത്ര സ്ഥലമില്ല, ദയവായി \u0009\u0009\u0009\u0009\u0009 ആദ്യം വൃത്തിയാക്കുക&quot;</string>
+    <string name="menu_show">മറച്ചുവച്ചിരിക്കുന്ന ഫയലുകള്‍ കാണിക്കുക</string>
+    <string name="menu_hide">ഒളിപ്പിച്ചിരിക്കുന്ന ഫയല്‍ ഒളിപ്പിക്കുക</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">തെറ്റ്</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">തെറ്റ്</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">തെറ്റ്</item>
+</resources>

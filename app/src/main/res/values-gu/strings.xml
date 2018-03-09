@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">હેલો વર્લ્ડ, QRDFileExplorer!</string>
+    <string name="app_name">ફાઇલ એક્સપ્લોરર</string>
+    <string name="app_name_dir_sel">ફોલ્ડર પસંદ કરો</string>
+    <string name="app_name_file_sel">ફાઇલ પસંદ કરો</string>
+    <string name="up">ઉપર</string>
+    <string name="menu_copy">કૉપિ કરો</string>
+    <string name="menu_move">ખસેડો</string>
+    <string name="menu_delete">હટાવો</string>
+    <string name="menu_detail">વિગતો</string>
+    <string name="menu_rename">નામ બદલો</string>
+    <string name="menu_share">શેર કરો</string>
+    <string name="menu_property">ગુણધર્મો</string>
+    <string name="menu_setto">સેટટૂ</string>
+    <string name="menu_setto_ringtone">રિંગટોન પર સેટ કરો</string>
+    <string name="menu_exit">બહાર નીકળો</string>
+    <string name="menu_mulsel">બધા પસંદ કરો</string>
+    <string name="sort_name_asc">નામ દ્વારા ચડતાક્રમમાં</string>
+    <string name="sort_name_dec">નામ દ્વારા ઉતરતાક્રમમાં</string>
+    <string name="sort_type_asc">ટાઇપ દ્વારા ચડતાક્રમમાં</string>
+    <string name="sort_type_dec">ટાઇપ દ્વારા ઉતરતાક્રમમાં</string>
+    <string name="sort_size_asc">સાઇઝ દ્વારા ચડતાક્રમમાં</string>
+    <string name="sort_size_dec">સાઇઝ દ્વારા ઉતરતાક્રમમાં</string>
+    <string name="sort_time_asc">સમય દ્વારા ચડતાક્રમમાં</string>
+    <string name="sort_time_dec">સમય દ્વારા ઉતરતાક્રમમાં</string>
+    <string name="menu_add_favorite">પસંદગીમાં ઉમેરો</string>
+    <string name="menu_rm_favorite">ફેવરિટમાંથી દૂર કરો</string>
+    <string name="context_menu_name">ફાઇલ વિકલ્પો</string>
+    <string name="dialog_deleting_confirm">શું તમે ખાતરીપૂર્વક કાઢી નાંખવા માગો છો?</string>
+    <string name="dialog_overwrite_confirm">શું તમે ફાઇલ %s પર ઓવરરાઇટ કરવા ઇચ્છો છો?</string>
+    <string name="dialog_rename_title">કૃપયા નવુ નામ દાખલ કરો.</string>
+    <string name="dialog_space_not_enough">પર્યાપ્ત જગ્યા નથી, કૃપયા પહેલાં તેને સાફ કરો.</string>
+    <string name="toast_operate_failed">ઓપરેટ નિષ્ફળ!</string>
+    <string name="progress_title">પ્રતીક્ષા</string>
+    <string name="progress_copy_title">પેસ્ટ થઈ રહ્યુ છે</string>
+    <string name="progress_move_title">ખસેડી રહ્યું છે</string>
+    <string name="progress_delete_title">હટાવાય છે</string>
+    <string name="phone_storage">ફોન સંગ્રહ</string>
+    <string name="internal_storage">આંતરિક સંગ્રહ</string>
+    <string name="sdcard">SD કાર્ડ</string>
+    <string name="storage_sd_card">SD કાર્ડ</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">USB સંગ્રહ</string>
+    <string name="storage_uicc">UICC સંગ્રહ</string>
+    <string name="property_info_total">કુલ:</string>
+    <string name="property_info_available">ઉપલબ્ધ:</string>
+    <string name="format_file_info">&quot;નામઃ %1$s પાથ: %2$s સુધારો: %3$s સાઇઝ: %4$s&quot;</string>
+    <string name="format_property_info">&quot;આંતરિક સંગ્રહ કુલ: %1$s ઉપલબ્ધ: %2$s ------------------ SD કાર્ડ કુલ: %3$s ઉપલબ્ધ: %4$s ------------------ USB કુલ: %5$s ઉપલબ્ધ: %6$s&quot;</string>
+    <string name="menu_new_folder">નવું ફોલ્ડર</string>
+    <string name="new_folder">નવું ફોલ્ડર બનાવો</string>
+    <string name="btn_ok">ઑકે</string>
+    <string name="btn_paste">પેસ્ટ કરો</string>
+    <string name="btn_cancel">રદ કરો</string>
+    <string name="toast_select_files">કૃપયા ફાઇલ પસંદ કરો</string>
+    <string name="toast_no_sd">કોઇ SD કાર્ડ નથી</string>
+    <string name="toast_no">&quot;નહિ&quot;</string>
+    <string name="toast_file_exists">ઓપરેટ નિષ્ફળ. ફાઇલ અસ્તિત્વમાં છે.</string>
+    <string name="toast_file_not_exists">ઓપરેટ નિષ્ફળ. ફાઇલ અસ્તિત્વ ધરાવતી નથી.</string>
+    <string name="toast_file_setto_ringtone_successed">રિંગટોન સેટ કરવાનું સફળ</string>
+    <string name="open_as">તરીકે ખોલો</string>
+    <string name="type_text">લખાણ</string>
+    <string name="type_audio">ઑડિઓ</string>
+    <string name="type_video">વિડિઓ</string>
+    <string name="type_image">છબી</string>
+    <string name="toast_filename_too_long">ઓપરેટ નિષ્ફળ. ફાઇલનું નામ ખૂબ લાંબુ છે.</string>
+    <string name="toast_delete_success">સફળતાપૂર્વક હટાવો</string>
+    <string name="category">શ્રેણી</string>
+    <string name="folder">ફોલ્ડર</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">સંગીત</string>
+    <string name="video">વિડિઓ</string>
+    <string name="image">છબી</string>
+    <string name="doc">Doc</string>
+    <string name="archive">આર્કાઇવ</string>
+    <string name="apk">APK</string>
+    <string name="favorite">ફેવરિટ</string>
+    <string name="toast_new_success">સફળતાપૂર્વક બનાવો</string>
+    <string name="toast_filename_empty">ઓપરેટ નિષ્ફળ. ફાઇલ નામ ખાલી ન હોઈ શકે.</string>
+    <string name="toast_activity_not_found">&quot;આ ફાઇલ ખોલવા માટે એપ્લિકેશન શોધી શકાતી નથી&quot;</string>
+    <string name="select_all">બધા પસંદ કરો</string>
+    <string name="deselect_all">તમામને ડિસિલેક્ટ કરો</string>
+    <string name="folder_name_reach_max_hint">ઇનપુટની લંબાઇ %1$d અક્ષરોથી વધુ હોય શકે નહિ!</string>
+    <string name="load_warning">લોડીંગ થાય છે...</string>
+    <string name="str_err_internal_storage_cannot_access">સંગ્રહ અનમાઉન્ટ, ઍક્સેસ કરી શકાતું નથી.</string>
+    <string name="str_err_sdcard_cannot_access">Sd કાર્ડ અનમાઉન્ટેડ, ઍક્સેસ કરી શકાતું નથી. કૃપયા Sd કાર્ડ ચકાસો.</string>
+    <string name="menu_sort">ગોઠવો</string>
+    <string name="sort_title">ના દ્વારા ગોઠવો</string>
+    <string name="no_space">&quot;પૂરતી જગ્યા નથી, કૃપયા \u0009\u0009\u0009\u0009\u0009 તેને પહેલાં સાફ કરો&quot;</string>
+    <string name="menu_show">છૂપી ફાઇલો દર્શાવો</string>
+    <string name="menu_hide">છૂપી ફાઇલો છૂપાવો</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">ફોલ્સ</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">ફોલ્સ</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">ફોલ્સ</item>
+</resources>

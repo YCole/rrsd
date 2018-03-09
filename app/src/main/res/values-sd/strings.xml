@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">नमस्ते दुनिया कू आई डी फाईल घुमिंदड!</string>
+<string name="app_name">फाईल घुमिंदड</string>
+<string name="app_name_dir_sel">फोल्डर चुंडो</string>
+<string name="app_name_file_sel">फाईल चुंड</string>
+<string name="up">मथे</string>
+<string name="menu_copy">कापी</string>
+<string name="menu_move">सोरो</string>
+<string name="menu_delete">रदि</string>
+<string name="menu_detail">निचुड</string>
+<string name="menu_rename">बि॒हर नालो</string>
+<string name="menu_share">वर्च</string>
+<string name="menu_property">प्रापरटी</string>
+<string name="menu_setto">सेट डा॒हिं</string>
+<string name="menu_setto_ringtone">रिगंटोन में तरतीब कयो</string>
+<string name="menu_exit">बा॒हर</string>
+<string name="menu_mulsel">सभु चुंडो</string>
+<string name="sort_name_asc">नाले सां मथे चडहिंदे</string>
+<string name="sort_name_dec">नाले सां लहिंदे</string>
+<string name="sort_type_asc">नमुने सां चडहिंदे</string>
+<string name="sort_type_dec">नमुने सां लहिंदे</string>
+<string name="sort_size_asc">माप सा मथे चडहिंदे</string>
+<string name="sort_size_dec">माप सां लहिंदे</string>
+<string name="sort_time_asc">वक्त सां चडहिंते</string>
+<string name="sort_time_dec">वक्त सां लहिंदे</string>
+<string name="menu_add_favorite">वणिंदडनि में गंढो</string>
+<string name="menu_rm_favorite">वणिंदडनि मां कडो॒</string>
+<string name="context_menu_name">फाईल विक्प</string>
+<string name="dialog_deleting_confirm">छा तव्हां खे पक आहे त तव्हां रदि ता करण चाहियो?</string>
+<string name="dialog_overwrite_confirm">छा तव्हां फाईल %s खे बि॒हर लिखण पई चाहियो?</string>
+<string name="dialog_rename_title">महर्बानी करे नयो नालो इंपुट कयो.</string>
+<string name="dialog_space_not_enough">हित वाजिबु जाई नाहे, महर्बानी करे अग॒वाटि साफु कयो.</string>
+<string name="toast_operate_failed">कार्वाहि नाकाम!</string>
+<string name="progress_title">तर्सयलु</string>
+<string name ="progress_copy_title">पास्टिंग</string>
+<string name ="progress_move_title">सुरजेपई</string>
+<string name ="progress_delete_title">रदि थिऐ पई</string>
+<string name ="phone_storage">फोन जमाखानो</string>
+<string name="internal_storage">अंदुरनी जमाखानो</string>
+<string name ="sdcard">SD कार्ड</string>
+<string name="storage_sd_card">SD कार्ड</string>
+<string name="usb">यू ऐस बी</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB जमाखानो</string>
+<string name="storage_uicc">यू आई सी सी जमाखानो</string>
+<string name="property_info_total">कुल: </string>
+<string name="property_info_available">मेंसर: </string>
+<string name="format_file_info">नालो: %1$s\r\n वाठि: %2$s\r\n फेरायलु: %3$s\r\n माप: %4$s</string>
+<string name="format_property_info">Internal storage\r\nकुल: %1$s\r\nमेसर: %2$s\r\n------------------\r\nSD
+कार्ड\r\nकुल: %3$s\r\nमेसर: %4$s\r\n------------------\r\nयू ऐस बी\r\nकुल: %5$s\r\nमेसर: %6$s</string>
+<string name="menu_new_folder">नयो फोल्डर</string>
+<string name="new_folder">हिकु नयो फोल्डर ठायो</string>
+<string name="btn_ok">ठीक</string>
+<string name="btn_paste">चिपकाअणु</string>
+<string name="btn_cancel">रदि</string>
+<string name="toast_select_files">महर्बानी करे फाईल चुंडो</string>
+<string name="toast_no_sd">SD कार्ड नाहे</string>
+<string name="toast_no">न \u0020</string>
+<string name="toast_file_exists">आपरेशन नाकाम. पाइल मोजुद आहे.</string>
+<string name="toast_file_not_exists">आपरेशन नाकाम. पाईल मोजुद नाहे.</string>
+<string name="toast_file_setto_ringtone_successed">रिंगटोन जो सेटअप पुरो थियो</string>
+<string name="open_as">खुलिंदो जिअं</string>
+<string name="type_text">टेक्सट</string>
+<string name="type_audio">आडियो</string>
+<string name="type_video">विडियो</string>
+<string name="type_image">पोटो</string>
+<string name="toast_filename_too_long">आपरेशन नाकाम. फाईल नालो तमाम घणो ढिघो.</string>
+<string name="toast_delete_success">रदि थयो कामयोब सी</string>
+<string name="category">भाङो</string>
+<string name="folder">फोल्डर</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">संगित</string>
+<string name="video">विडियो</string>
+<string name="image">पोटो</string>
+<string name="doc">डोक</string>
+<string name="archive">आरकाईव</string>
+<string name="apk">APK</string>
+<string name="favorite">वणिंदड</string>
+<string name="toast_new_success">ठायो कामयाबी सां</string>
+<string name="toast_filename_empty">आपरेशन नाकाम. फाईल नालो वांदो नथो थी सघे.</string>
+<string name="toast_activity_not_found">फाईल खोलण लाई ऐपलिकेशन मेसर वाहे</string>
+<string name="select_all">सभु चुंडो</string>
+<string name="deselect_all">सभ अण-चुडा कयो</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d चुंडो वयो</item>
+    <item quantity="one">%1$d चुंडो वयो</item>
+    <item quantity="other">%1$d चुंडो वयो</item>
+</plurals>
+<string name="folder_name_reach_max_hint">इंपुट जी ढिघाई %1$d अखरनि खां वधिक नाहे!</string>
+<string name="load_warning">तोड पयो थिऐ...</string>
+<string name="str_err_internal_storage_cannot_access"> &quot;जमाखानो अण-माउंट कयो वयो, ऐकसेस न पयो थीऐ.&quot;</string>
+<string name="str_err_sdcard_cannot_access"> &quot;Sd कार्ड अण-माउंट कयो वयो, ऐकसेस न पयो थीऐ. महर्बानी करे Sd कार्ड तपासो.&quot;</string>
+<string name = "menu_sort">छाटो</string>
+<string name = "sort_title">छाटल पारां</string>
+<string name = "no_space">जाई काफी नाहे, महर्बनी करे\r\n\t\t\t\t\tइग॒वाटी साफु कयो</string>
+<string name = "menu_show">लिकयलु फाईल डे॒खारो</string>
+<string name = "menu_hide">लिगयलु फाईलयूं लिकायो</string>
+</resources>

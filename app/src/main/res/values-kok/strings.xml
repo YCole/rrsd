@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">हॅलो जग, QRDFileExplorer!</string>
+<string name="app_name">फायल सोदपी</string>
+<string name="app_name_dir_sel">फोल्डर वेंचात</string>
+<string name="app_name_file_sel">फायल सिलेक्ट करात</string>
+<string name="up">वयर</string>
+<string name="menu_copy">कॉपी</string>
+<string name="menu_move">हाल</string>
+<string name="menu_delete">पुसून उडयात</string>
+<string name="menu_detail">तपशील</string>
+<string name="menu_rename">पुनर्नामकरण</string>
+<string name="menu_share">वांटून घेयात</string>
+<string name="menu_property">सामान/(गुणधर्म)</string>
+<string name="menu_setto">सेट टू</string>
+<string name="menu_setto_ringtone">सेट टू सिंगटोन</string>
+<string name="menu_exit">भायर सरात</string>
+<string name="menu_mulsel">सगले वेंचात</string>
+<string name="sort_name_asc">नांवान asc</string>
+<string name="sort_name_dec">नांवांन dec</string>
+<string name="sort_type_asc">टायप करून asc</string>
+<string name="sort_type_dec">टायप करून dec</string>
+<string name="sort_size_asc">आकारान asc</string>
+<string name="sort_size_dec">आकारान dec</string>
+<string name="sort_time_asc">वेळान asc</string>
+<string name="sort_time_dec">वेळान dec</string>
+<string name="menu_add_favorite">आवडीच्याक जोडात</string>
+<string name="menu_rm_favorite">आवडीच्यातल्यान काडून उडयात</string>
+<string name="context_menu_name">फायल पर्याय</string>
+<string name="dialog_deleting_confirm">तुमकां काडून उडोवचें म्हण खात्री आसा?</string>
+<string name="dialog_overwrite_confirm">तुमी %s फायलीयेर बरोवंक सोदतात?</string>
+<string name="dialog_rename_title">नांव इनपुट करात.</string>
+<string name="dialog_space_not_enough">हांगा जाय तितलो जागो ना, मात्शें हें पयलीं निवळ करात.</string>
+<string name="toast_operate_failed">काम करप जालेंना!</string>
+<string name="progress_title">वाट पळयतात</string>
+<string name ="progress_copy_title">चिकटायतात</string>
+<string name ="progress_move_title">हालयतात</string>
+<string name ="progress_delete_title">काडून उडयतात</string>
+<string name ="phone_storage">फोनाचें संचयन</string>
+<string name="internal_storage">भितरलें संचयन</string>
+<string name ="sdcard">SD कार्ड</string>
+<string name="storage_sd_card">SD कार्ड</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB संचयन</string>
+<string name="storage_uicc">UICC सांठवण</string>
+<string name="property_info_total">एकूणः </string>
+<string name="property_info_available">उपलब्धः </string>
+<string name="format_file_info">नांवः %1$s\r\nमार्ग: %2$s\r\nबदललां: %3$s\r\nआकारमान: %4$s</string>
+<string name="format_property_info">भितरलें संचयन\r\nएकूण: %1$s\r\nउपलब्ध: %2$s\r\n------------------\r\nSD कार्ड\r\nएकूण: %3$s\r\nउपलब्ध: %4$s\r\n------------------\r\nUSB\r\nएकूण: %5$s\r\nउपलब्ध: %6$s</string>
+<string name="menu_new_folder">नवो फोल्डर</string>
+<string name="new_folder">नवो फोल्डर करात</string>
+<string name="btn_ok">बरें आसा</string>
+<string name="btn_paste">चिकटायात</string>
+<string name="btn_cancel">रद्द करात</string>
+<string name="toast_select_files">मात्शि फायल वेंचात</string>
+<string name="toast_no_sd">SD कार्ड ना</string>
+<string name="toast_no">नं \u0020</string>
+<string name="toast_file_exists">काम करप जालेंना. फायल आसा.</string>
+<string name="toast_file_not_exists">काम करप जालेंना. फायल ना.</string>
+<string name="toast_file_setto_ringtone_successed">रिगटोन सेट यशस्वी जालो</string>
+<string name="open_as">असो म्हण उक्तो करात</string>
+<string name="type_text">मजकूर</string>
+<string name="type_audio">ओडिओ</string>
+<string name="type_video">व्हिडिओ</string>
+<string name="type_image">प्रतिमा</string>
+<string name="toast_filename_too_long">काम करप जालेंना. फायलीचें नांव चड लांब आसा.</string>
+<string name="toast_delete_success">यशस्वी रितीन काडून उडय</string>
+<string name="category">श्रेणी</string>
+<string name="folder">फोल्डर</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">संगीत</string>
+<string name="video">व्हिडिओ</string>
+<string name="image">प्रतिमा</string>
+<string name="doc">Doc</string>
+<string name="archive">संग्रह</string>
+<string name="apk">APK</string>
+<string name="favorite">आवडीचे</string>
+<string name="toast_new_success">यशस्वी रितीन तयार कर</string>
+<string name="toast_filename_empty">काम करप जालेंना. फायल नांव रितें आसूंक शकना.</string>
+<string name="toast_activity_not_found">ही फायल उक्ती करूं एक अनुप्रयोग मेळना</string>
+<string name="select_all">सगले वेंचात</string>
+<string name="deselect_all">वेंचून काडल्यत त्यो सगल्यो नाका करात</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d वेंचला</item>
+    <item quantity="one">%1$d वेंचला</item>
+    <item quantity="other">%1$d वेंचला</item>
+</plurals>
+<string name="folder_name_reach_max_hint">इनपुटाची लांबाय %1$d वर्णा परस चड ना!</string>
+<string name="load_warning">भरता...</string>
+<string name="str_err_internal_storage_cannot_access"> “चडयिल्ले संचयन कार्डा मेरेन पावना.”</string>
+<string name="str_err_sdcard_cannot_access"> “चडोवं नाशिल्लें Sd कार्डां मेरेन पावना. Sd कार्ड तपासात.”</string>
+<string name = "menu_sort">वर्गीकरण</string>
+<string name = "sort_title">वर्गीकरणकरात हातून</string>
+<string name = "no_space">जागो जाय तितलो आसा,मात्शें\r\n\t\t\t\t\tपयलीं निवळ करात</string>
+<string name = "menu_show">लिपिल्यो फायली दाखयात</string>
+<string name = "menu_hide">लिपिल्ल्यो फायली लिपोवन दवरात</string>
+</resources>

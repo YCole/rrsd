@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">खुलुमबाय मुलुग, QRDFileExplorer!</string>
+<string name="app_name">फाइल इक्सप्ल’रार</string>
+<string name="app_name_dir_sel">फल्डारखौ चेलेक खालाम</string>
+<string name="app_name_file_sel">फाइलफोरखौ चेलेक खालाम</string>
+<string name="up">आफ</string>
+<string name="menu_copy">कपि</string>
+<string name="menu_move">मुभ खालाम</string>
+<string name="menu_delete">दान</string>
+<string name="menu_detail">गुद-खिटाफोर</string>
+<string name="menu_rename">मुं लिरफिन</string>
+<string name="menu_share">चेयार खालाम</string>
+<string name="menu_property">फ्रफारटिस</string>
+<string name="menu_setto">SetTo</string>
+<string name="menu_setto_ringtone">रिंटन चेट(थिक) खालाम</string>
+<string name="menu_exit">इकजिथ खालाम</string>
+<string name="menu_mulsel">गासैखौबो चेलेक खालाम</string>
+<string name="sort_name_asc">asc मुंजों</string>
+<string name="sort_name_dec">dec मुंजों</string>
+<string name="sort_type_asc">asc टाइफजों</string>
+<string name="sort_type_dec">dec टाइफजों</string>
+<string name="sort_size_asc">Asc साइज(महर)जों</string>
+<string name="sort_size_dec">dec साइज(महर)जों</string>
+<string name="sort_time_asc">Asc समजों</string>
+<string name="sort_time_dec">dec समजों</string>
+<string name="menu_add_favorite">मोजां मोननायसिम सरजाब</string>
+<string name="menu_rm_favorite">मोजां मोननायनिफ्राय बोखार</string>
+<string name="context_menu_name">फाइल सायख’ राहाफोर</string>
+<string name="dialog_deleting_confirm">दाननायनि थाखाय नों रोखा नामा?</string>
+<string name="dialog_overwrite_confirm">नों फाइल %s खौ लिरदेरनाय खालामनो लुबैयो नामा?</string>
+<string name="dialog_rename_title">अननानै गोदान मुंखौ इनपुट खालाम</string>
+<string name="dialog_space_not_enough">बेयाव थोजासे जायगा गैया, अननानै बेखौ फोसाबगोर।</string>
+<string name="toast_operate_failed">अफारेट खालामनाया फेलें जाबाय!</string>
+<string name="progress_title">नेनाय</string>
+<string name ="progress_copy_title">फेस्ट खालामदों</string>
+<string name ="progress_move_title">मुभ कालामदों</string>
+<string name ="progress_delete_title">दानदों</string>
+<string name ="phone_storage">पन दोनथुमग्रा</string>
+<string name="internal_storage">सिङारि दोनथुमग्रा(स्टरेज)</string>
+<string name ="sdcard">SD कार्ड</string>
+<string name="storage_sd_card">SD कार्ड</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB दोनथुमग्रा(स्टरेज)</string>
+<string name="storage_uicc">UICC दोनथुमग्रा(स्टरेज)</string>
+<string name="property_info_total">गासै: </string>
+<string name="property_info_available">गोबां: </string>
+<string name="format_file_info">मुं: %1$s\r\n फाट: %2$s\r\n फोसाबफिनबाय: %3$s\r\n साइज(महर): %4$s</string>
+<string name="format_property_info">सिङारि दोन्थुमग्रा(स्टरेज)\r\n गासै: %1$s\r\n गोबां: %2$s\r\n------------------\r\nSD कार्ड\r\n गासै: %3$s\r\n गोबां: %4$s\r\n------------------\r\nUSB\r\n गासै: %5$s\r\n गोबां: %6$s</string>
+<string name="menu_new_folder">गोदान फल्डार</string>
+<string name="new_folder">मोनसे गोदान फल्डार सोरजि</string>
+<string name="btn_ok">OK</string>
+<string name="btn_paste">फेस्ट खालाम</string>
+<string name="btn_cancel">केनचेल खालाम</string>
+<string name="toast_select_files">अननानै फाइलफोरखौ चेलेक खालाम</string>
+<string name="toast_no_sd">SD कार्ड गैया</string>
+<string name="toast_no">\u0020 गैया</string>
+<string name="toast_file_exists">अफारेट खालामनाया फेलें जाबाय। फाइला थांनानै दं।</string>
+<string name="toast_file_not_exists">अफारेट खालामनाया फेलें जाबाय। फाइला थांनानै थायाखै।</string>
+<string name="toast_file_setto_ringtone_successed">रिंटन चेट(थिक) खालामनाया जाफुंबाय।</string>
+<string name="open_as">बादियै खुलि</string>
+<string name="type_text">टेक्स</string>
+<string name="type_audio">अडिअ</string>
+<string name="type_video">भिडिअ</string>
+<string name="type_image">इमेज</string>
+<string name="toast_filename_too_long">अफारेट खालामनाया फेलें जाबाय। फाइल मुङा जोबोर गोलाव।</string>
+<string name="toast_delete_success">दाननाया जाफुंबाय</string>
+<string name="category">बाहागो</string>
+<string name="folder">फल्डार</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">मिउजिक</string>
+<string name="video">भिडिअ</string>
+<string name="image">इमेज</string>
+<string name="doc">डक</string>
+<string name="archive">आरचिभ</string>
+<string name="apk">APK</string>
+<string name="favorite">मोजां मोननाय</string>
+<string name="toast_new_success">सोरजिनाया जाफुंबाय</string>
+<string name="toast_filename_empty">अफारेट खालामनाया फेलें जाबाय। फाइल मुङा लांदां जानो हाया।</string>
+<string name="toast_activity_not_found">बे फाइलखौ खुलिनायनि थाखाय मोनसे एप्लिकेसन मोननो हाया</string>
+<string name="select_all">गासैखौबो चेलेक खालाम</string>
+<string name="deselect_all">गासैबो डिचेलेक</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d चेलेक जाबाय</item>
+    <item quantity="one">%1$d चेलेक जाबाय</item>
+    <item quantity="other">%1$d चेलेक जाबाय</item>
+</plurals>
+<string name="folder_name_reach_max_hint">इनपुटनि लावथाइया गोलावसिन नङा %1$d आखुथाइनिख्रुइ!</string>
+<string name="load_warning">लडिं जादों...</string>
+<string name="str_err_internal_storage_cannot_access"> &quot;दोनथुमग्रा(स्टरेज) खायै, हाबनो हाया।&quot;</string>
+<string name="str_err_sdcard_cannot_access"> &quot;Sd कार्ड खायै, हाबनो हाया। अननानै Sd कार्ड खौ नायनाय।&quot;</string>
+<string name = "menu_sort">थि(सर्ट) खालाम</string>
+<string name = "sort_title">जों थि(सर्ट) खालाम</string>
+<string name = "no_space">बेयाव थोजासे जायगा गैया, अननानै\r\n\t\t\t\t\t बेखौ फोसाबगोर</string>
+<string name = "menu_show">थाखुमानाय फाइलफोरखौ दिन्थिदों</string>
+<string name = "menu_hide">थाखुमानाय फाइलफोरखौ दोनखुमा</string>
+</resources>

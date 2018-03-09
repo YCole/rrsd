@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2011-2013, Qualcomm Technologies, Inc. All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+  -->
+<resources>
+<string name="app_name">文件管理</string>
+<string name="app_name_dir_sel">选取文件夹</string>
+<string name="app_name_file_sel">选取文件</string>
+<string name="up">向上</string>
+<string name="menu_copy">复制</string>
+<string name="menu_move">移动</string>
+<string name="menu_delete">删除</string>
+<string name="menu_detail">详细</string>
+<string name="menu_rename">重命名</string>
+<string name="menu_share">分享</string>
+<string name="menu_property">属性</string>
+<string name="menu_exit">退出</string>
+<string name="menu_add_favorite">添加到收藏夹</string>
+<string name="menu_rm_favorite">从收藏夹删除</string>
+<string name="context_menu_name">文件选项</string>
+<string name="dialog_deleting_confirm">确认删除?</string>
+<string name="dialog_overwrite_confirm">确认覆盖文件: %s?</string>
+<string name="dialog_rename_title">请输入新名称.</string>
+<string name="toast_operate_failed">操作失败!</string>
+<string name="progress_title">等待</string>
+<string name ="progress_copy_title">正在复制</string>
+<string name ="progress_move_title">正在移动</string>
+<string name ="progress_delete_title">正在删除</string>
+<string name ="phone_storage">手机内存</string>
+<string name ="sdcard">外置存储卡</string>
+<string name="storage_sd_card">SD 卡</string>
+<string name="storage_usb">USB 存储</string>
+<string name="storage_uicc">UICC 存储</string>
+<string name="internal_storage">内部存储空间</string>
+<string name="property_info_total">全部: </string>
+<string name="property_info_available">剩余: </string>
+<string name="format_file_info">名称: %1$s\r\n路径: %2$s\r\n修改日期: %3$s\r\n大小: %4$s</string>
+<string name="format_property_info">系统空间\r\n全部: %1$s\r\n剩余: %2$s\r\n------------------\r\nSD 卡\r\n全部: %3$s\r\n剩余: %4$s\r\n------------------\r\nUSB\r\n全部: %5$s\r\n剩余: %6$s</string>
+<string name="menu_new_folder">新建</string>
+<string name="new_folder">新建文件夹</string>
+<string name="btn_ok">确认</string>
+<string name="btn_paste">粘贴</string>
+<string name="btn_cancel">取消</string>
+<string name="toast_select_files">请选取文件</string>
+<string name="toast_no_sd">未检测到SD卡</string>
+<string name="toast_no">无 </string>
+<string name="toast_file_exists">操作失败!文件已存在.</string>
+<string name="toast_file_not_exists">操作失败!文件不存在.</string>
+<string name="open_as">打开为</string>
+<string name="type_text">文本</string>
+<string name="type_audio">音频</string>
+<string name="type_video">视频</string>
+<string name="type_image">图像</string>
+<string name="category">分类</string>
+<string name="folder">文件夹</string>
+<string name="music">音乐</string>
+<string name="video">视频</string>
+<string name="image">图片</string>
+<string name="doc">文档</string>
+<string name="archive">压缩包</string>
+<string name="apk">安装包</string>
+<string name="favorite">收藏夹</string>
+<string name="toast_filename_too_long">操作失败!文件名过长.</string>
+<string name="toast_delete_success">"删除成功"</string>
+<string name="toast_new_success">"新建成功"</string>
+<string name="toast_filename_empty">操作失败!文件名不能为空.</string>
+<string name="toast_activity_not_found">"找不到应用程序打开此文件."</string>
+<string name="select_all">全选</string>
+<string name="deselect_all">取消全选</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero" msgid="2142579311530586258">"%1$d 项选中了"</item>
+    <item quantity="one" msgid="2478365152745637768">"%1$d 项选中了"</item>
+    <item quantity="other" msgid="754722656147810487">"%1$d 项选中了"</item>
+</plurals>
+<string name = "menu_sort">排序</string>
+<string name = "sort_title">排序方式</string>
+<string name = "menu_show">显示隐藏文件</string>
+<string name = "menu_hide">不显示隐藏文件</string>
+<string name = "no_space">空间不足,请先清除文件</string>
+<string name = "load_warning">载入中…</string>
+<string name="folder_name_reach_max_hint">最多只能输入%1$d个字符！</string>
+
+
+<!-- <string name="app_name">FTP-START</string> -->
+<string name = "menu_file">选项</string>
+<string name = "ftp">FTP</string>
+ <string name="storage_warning">警告：当前存储暂不可用，您可能需要取消挂载。</string>
+<!-- <string name="app_name">FTP-END</string> -->
+<string name="running_summary_stopped">FTP服务器已断开</string>
+<string name="running_summary_started">at %s</string>
+<string name="running_summary_failed">
+        无法连接FTP服务器，请确保wifi已连接
+</string>
+<string name="running_summary_failed_to_get_ip_address">获取IP地址失败，无法开启FTP服务器</string>
+ <!--connectactivity-->
+<string name="start_instruction">启动后可以从电脑端远程管理手机文件</string>
+<string name="ftp_computer">在计算机中输入：</string>
+<string name="open_wifi_connection">请先连接wifi</string>
+<string name="btn_start">开启</string>
+<string name="btn_close">关闭</string>
+<string name="wifi_not_connected">wifi未连接</string>
+<string name="network_state">网络状态\n%1$s</string>
+</resources>

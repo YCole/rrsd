@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">হেল্লো ৱর্ল্ড, QRDFileExplorer!</string>
+<string name="app_name">ফাইল এক্সপ্লোরর</string>
+<string name="app_name_dir_sel">ফোল্দর খল্লু</string>
+<string name="app_name_file_sel">ফাইলশিং খল্লু</string>
+<string name="up">মথক</string>
+<string name="menu_copy">কোপি</string>
+<string name="menu_move">লেঙঙু</string>
+<string name="menu_delete">মুত্থৎলু</string>
+<string name="menu_detail">অকূপ্পা মরোলশিং</string>
+<string name="menu_rename">হন্না মিংথোনবা</string>
+<string name="menu_share">শীজিন্নমিন্নৌ</string>
+<string name="menu_property">মগুনশিং</string>
+<string name="menu_setto">সেটতু</string>
+<string name="menu_setto_ringtone">রিংটোন থম্মু</string>
+<string name="menu_exit">থোকখিবা</string>
+<string name="menu_mulsel">পূম্নমক খল্লু</string>
+<string name="sort_name_asc">মিংনা কাখৎলিবা</string>
+<string name="sort_name_dec">মিংনা কূমথরিবা</string>
+<string name="sort_type_asc">মখলনা কাখৎলিবা</string>
+<string name="sort_type_dec">মখলনা কূমথরিবা</string>
+<string name="sort_size_asc">সাইজনা কাখৎলিবা</string>
+<string name="sort_size_dec">সাইজনা কূমথরিবা</string>
+<string name="sort_time_asc">মতম্না কাখৎলিবা</string>
+<string name="sort_time_dec">মতম্না কূমথরিবা</string>
+<string name="menu_add_favorite">পামজবদা হাপচিল্লু</string>
+<string name="menu_rm_favorite">ফামজবদগী লৌথোকউ</string>
+<string name="context_menu_name">ফাইল ওপশনশিং</string>
+<string name="dialog_deleting_confirm">নহাক তশেংনা মুত্থৎনীংলব্রা?</string>
+<string name="dialog_overwrite_confirm">ফাইল %s ওভররাইত তৌবা নহাক্না পাম্ব্রা?</string>
+<string name="dialog_rename_title">অনৌবা মিংদু ইনপুত তৌ।</string>
+<string name="dialog_space_not_enough">স্পেস মরাং কায়না লৈতে, মদু হান্না শেংদোকপীয়ু।</string>
+<string name="toast_operate_failed">থবক য়াদ্রে!</string>
+<string name="progress_title">ঙাইরি</string>
+<string name ="progress_copy_title">পাষ্টিং</string>
+<string name ="progress_move_title">লেঙলি</string>
+<string name ="progress_delete_title">মুত্থৎলি</string>
+<string name ="phone_storage">ফোন তূংনফম</string>
+<string name="internal_storage">মনুংগী তূংনফম</string>
+<string name ="sdcard">SD কার্ড</string>
+<string name="storage_sd_card">SD কার্ড</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB তূংনফম</string>
+<string name="storage_uicc">UICC স্টোরেজ</string>
+<string name="property_info_total">অপূনবা: </string>
+<string name="property_info_available">ফংই: </string>
+<string name="format_file_info">মমিং: %1$s\r\nলম্বী: %2$s\r\nশেমদোক্লে: %3$s\r\nসাইজ: %4$s</string>
+<string name="format_property_info">মনুংগী তূংনফম\r\nঅপূনবা: %1$s\r\nফংই: %2$s\r\n------------------\r\nSD কার্ড\r\nঅপূনবা: %3$s\r\nফংই: %4$s\r\n------------------\r\nUSB\r\nঅপূনবা: %5$s\r\nফংই: %6$s</string>
+<string name="menu_new_folder">অনৌবা ফোল্ডর</string>
+<string name="new_folder">অনৌবা ফোল্ডর অমা শেম্মু</string>
+<string name="btn_ok">য়ারে</string>
+<string name="btn_paste">পেষ্ট তৌ</string>
+<string name="btn_cancel">ককথৎলু</string>
+<string name="toast_select_files">ফাইলশিং খনবীয়ু</string>
+<string name="toast_no_sd">SD কার্ড য়াওদে</string>
+<string name="toast_no">লৈতে \u0020</string>
+<string name="toast_file_exists">থবক য়াদ্রে। ফাইল লৈ।</string>
+<string name="toast_file_not_exists">থবক য়াদ্রে। ফাইল লৈতে।</string>
+<string name="toast_file_setto_ringtone_successed">রিংতোন থম্বদু মায়পাক্লে</string>
+<string name="open_as">ওইনা হাংই</string>
+<string name="type_text">টেক্স</string>
+<string name="type_audio">ওদিও</string>
+<string name="type_video">ভিদিও</string>
+<string name="type_image">মমি</string>
+<string name="toast_filename_too_long">থবক য়াদ্রে। ফাইল মমিংসি শাংমল্লি।</string>
+<string name="toast_delete_success">মায়পাক্না মুত্থৎলু</string>
+<string name="category">কেটগোরি</string>
+<string name="folder">ফোল্ডর</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">ঈশৈ</string>
+<string name="video">ভিদিও</string>
+<string name="image">মমি</string>
+<string name="doc">ডোকুমেন্ট</string>
+<string name="archive">আর্কাইব</string>
+<string name="apk">APK</string>
+<string name="favorite">পামজবা</string>
+<string name="toast_new_success">মায়পাক্না শেম্মু</string>
+<string name="toast_filename_empty">থবক য়াদ্রে। ফাইল মমিং পীদবা য়াদে।</string>
+<string name="toast_activity_not_found">মসিগী ফাইলসি হাংননবা এপ্লিকেশন ফংদ্রে</string>
+<string name="select_all">পূম্নমক খল্লু</string>
+<string name="deselect_all">পূম্নমক খল্লুরনু</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d খল্লে</item>
+    <item quantity="one">%1$d খল্লে</item>
+    <item quantity="other">%1$d খল্লে</item>
+</plurals>
+<string name="folder_name_reach_max_hint">ইনপুতকী অশাংবদু %1$d কেরেক্টরদগী হেন্না শাংবা য়াদে!</string>
+<string name="load_warning">লোড তৌরি...</string>
+<string name="str_err_internal_storage_cannot_access"> &quot;তূংনফমদু কাখৎলক্তে, শীজিন্নবা য়াদ্রে।&quot;</string>
+<string name="str_err_sdcard_cannot_access"> &quot;Sd কার্ডতু কাখৎলক্তে, শীজিন্নবা য়াদ্রে। Sd কার্ডতু অমুক্তা য়েংবীয়ু।&quot;</string>
+<string name = "menu_sort">মখল</string>
+<string name = "sort_title">মখল খায়দোকপা</string>
+<string name = "no_space">স্পেস মরাং কায়দে, অহানবদা মদু\r\n\t\t\t\t\tclean শেংদোকপীয়ু</string>
+<string name = "menu_show">অরোৎপা ফাইলশিংদু উৎলু</string>
+<string name = "menu_hide">অরোৎপা ফাইলশিংদু লোৎশিল্লু</string>
+</resources>

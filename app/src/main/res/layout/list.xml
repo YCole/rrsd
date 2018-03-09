@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2011 Qualcomm Technologies, Inc.
+  All Rights Reserved.
+  Qualcomm Technologies Confidential and Proprietary.
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_new_folder"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/menu_new_folder" />
+
+    <item
+        android:id="@+id/menu_sort"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:title="@string/menu_sort" />
+
+     <item
+        android:id="@+id/menu_hide"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:title="@string/menu_hide" />
+
+    <item
+        android:id="@+id/menu_property"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:title="@string/menu_property" />
+
+</menu>

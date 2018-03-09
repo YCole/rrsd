@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2013, Qualcomm Technologies, Inc. All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+-->
+
+<resources>
+<dimen name="path_height">60dp</dimen>
+<dimen name="top_space">20dp</dimen>
+<dimen name="bottom_space">10dp</dimen>
+</resources>

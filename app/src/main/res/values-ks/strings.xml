@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">آداب دنیا، QRD فائل ایکسپلورر!</string>
+    <string name="app_name">فائل ایکسپلورر</string>
+    <string name="app_name_dir_sel">چُنیو فولڈر</string>
+    <string name="app_name_file_sel">چُنیو فائلِ</string>
+    <string name="up">ھیور</string>
+    <string name="menu_copy">نقل</string>
+    <string name="menu_move">پھیر</string>
+    <string name="menu_delete">خٲرج</string>
+    <string name="menu_detail">تفصیل</string>
+    <string name="menu_rename">نَے سر ناۅ</string>
+    <string name="menu_share">بانٹ</string>
+    <string name="menu_property">صفت</string>
+    <string name="menu_setto">تھاونِہ آو</string>
+    <string name="menu_setto_ringtone">تھاونِہ آو رینگ ٹون</string>
+    <string name="menu_exit">بند</string>
+    <string name="menu_mulsel">چُن سٲری</string>
+    <string name="sort_name_asc">asc از ناو</string>
+    <string name="sort_name_dec">dec از ناو</string>
+    <string name="sort_type_asc">asc از قسم</string>
+    <string name="sort_type_dec">dec از قسم</string>
+    <string name="sort_size_asc">asc از سائز</string>
+    <string name="sort_size_dec">dec از سائز</string>
+    <string name="sort_time_asc">asc از وقت</string>
+    <string name="sort_time_dec">dec از وقت</string>
+    <string name="menu_add_favorite">شٲمل کر خاصن منز</string>
+    <string name="menu_rm_favorite">معزول کر خاصن منز</string>
+    <string name="context_menu_name">فائل انتخابات</string>
+    <string name="dialog_deleting_confirm">توہ چھوا یقین خٲرج کرنس پیٹھ؟</string>
+    <string name="dialog_overwrite_confirm">توہ چھوا یژھان یتھ فائل پیٹھ لیکھنس %s؟</string>
+    <string name="dialog_rename_title">مہربٲنی کریتھ دِیو نو ناۅ۔</string>
+    <string name="dialog_space_not_enough">یتِہ چھِ نِہ کٲفی جاے، مہربٲنی کریتھ کریو گُد صاف۔</string>
+    <string name="toast_operate_failed">!ناکام سپُد چالو کرنس منز</string>
+    <string name="progress_title">پراران</string>
+    <string name="progress_copy_title">پیسٹ کران</string>
+    <string name="progress_move_title">پھیران</string>
+    <string name="progress_delete_title">خٲرج کران</string>
+    <string name="phone_storage">فون سٹوریج</string>
+    <string name="internal_storage">اندرونی سٹوریج</string>
+    <string name="sdcard">۔SD کاڈ</string>
+    <string name="storage_sd_card">۔SD کاڈ</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">۔USB سٹوریج</string>
+    <string name="storage_uicc">۔UICC سٹوریج</string>
+    <string name="property_info_total">کل:</string>
+    <string name="property_info_available">:موجود</string>
+    <string name="format_file_info">۔&quot;ناۅ: ۔%1$s وتھ: ۔%2$s تراش کر: سائز: %3$s %4$s&quot;</string>
+    <string name="format_property_info">:کل اندرونی سٹوریج&quot; ۔%1$s موجود: :کاڈ کل SD ------------------%2$s ۔%3$s موجود: :کاڈ کل USB------------------%4$s ۔%5$s موجود: %6$s&quot;</string>
+    <string name="menu_new_folder">نو فولڈر</string>
+    <string name="new_folder">بناۅ اکھ نو فولڈر</string>
+    <string name="btn_ok">ٹھیک</string>
+    <string name="btn_paste">پیسٹ</string>
+    <string name="btn_cancel">رد</string>
+    <string name="toast_select_files">مہربٲنی کریتھ چُنیو فائلِ</string>
+    <string name="toast_no_sd">کاہ SD کاڈ نِہ</string>
+    <string name="toast_no">&quot;نَہ&quot;</string>
+    <string name="toast_file_exists">چالو کرُن سپُد ناکام۔ فائل چھِ موجود۔</string>
+    <string name="toast_file_not_exists">چالو کرُن سپُد ناکام۔ فائل چھِ نِہ موجود۔</string>
+    <string name="toast_file_setto_ringtone_successed">رینگ ٹون تھاوُن سپُد کامیاب</string>
+    <string name="open_as">کھول از</string>
+    <string name="type_text">ٹیکسٹ</string>
+    <string name="type_audio">آواز</string>
+    <string name="type_video">ویڈیو</string>
+    <string name="type_image">تصویر</string>
+    <string name="toast_filename_too_long">چالو کرُن سپُد ناکام۔ فائل ناو چھِ واریاہ زیوٗٹھ۔</string>
+    <string name="toast_delete_success">کامیٲبی سان خٲرج</string>
+    <string name="category">زمرہ</string>
+    <string name="folder">فولڈر</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">موسیقی</string>
+    <string name="video">ویڈیو</string>
+    <string name="image">تصویر</string>
+    <string name="doc">Doc</string>
+    <string name="archive">محٲفظ خانہ</string>
+    <string name="apk">APK</string>
+    <string name="favorite">خاص</string>
+    <string name="toast_new_success">بناونِہ آو کامیٲبی سان</string>
+    <string name="toast_filename_empty">چالو کرُن سپُد ناکام۔ فائل ناو ھیکِہ نِہ خٲلی روزیتھ۔</string>
+    <string name="toast_activity_not_found">&quot;ھیوک نِہ لبیتھ کاہ ایپلکیشن یِہ فائل کھولنِہ خٲطر&quot;</string>
+    <string name="select_all">چُن سٲری</string>
+    <string name="deselect_all">مَہ چُن کاہ</string>
+    <string name="folder_name_reach_max_hint">حرف کھوت %1$d ان پُٹ زیچھر چھِ نِہ زیوٗٹھ</string>
+    <string name="load_warning">لوڈ کران۔۔۔</string>
+    <string name="str_err_internal_storage_cannot_access">سٹوریج ان ماؤنٹ، ھیکِہ نِہ حٲصل کریتھ۔</string>
+    <string name="str_err_sdcard_cannot_access">کاڈ۔ sd کاڈ چھِ ان ماؤنٹ کریتھ،ھیکِہ نِہ حٲصل کریتھ۔مہربٲنی کریتھ کریو جانچ sd</string>
+    <string name="menu_sort">ترتیب</string>
+    <string name="sort_title">ترتیب از</string>
+    <string name="no_space">۔&quot;یتِہ چھِ نِہ کٲفی جاے موجود، مہربٲنی کریتھ کریو  \u0009\u0009\u0009\u0009\u0009  گُڑِ صاف&quot;</string>
+    <string name="menu_show">ھاو چھُپیتھ فائلِ</string>
+    <string name="menu_hide">چھُپاو چھُپیتھ فائلِ</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">false</item>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2013, Qualcomm Technologies, Inc.
+  All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+-->
+<resources>
+    <string-array name="sort_menu_items">
+        <item>名称</item>
+        <item>时间</item>
+        <item>类型</item>
+        <item>大小</item>
+    </string-array>
+</resources>

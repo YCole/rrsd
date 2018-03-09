@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2011 Qualcomm Technologies, Inc.
+  All Rights Reserved.
+  Qualcomm Technologies Confidential and Proprietary.
+  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="#f5f5f5"
+    >
+    <RelativeLayout
+        android:id="@+id/layout_top"
+        android:layout_width="fill_parent"
+        android:paddingRight="5dp"
+        android:layout_height="32px" android:background="#f5f5f5">
+        <TextView
+            android:id="@+id/tv_path"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/hello"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/space"
+            android:textColor="#242424"
+            android:textSize="14sp"
+            android:singleLine="true"
+            android:focusable="false"
+            android:layout_marginRight="3dp"
+            android:ellipsize="middle"
+            android:freezesText="true">
+        </TextView>
+        <View
+           android:id="@id/space"
+           android:layout_width="1dp"
+           android:layout_height="30dp"
+           android:layout_centerVertical="true"
+           android:background="#484848"
+           android:layout_toLeftOf="@+id/btn_up"
+           android:layout_marginRight="6dp"/>
+        <ImageButton
+            android:id="@id/btn_up"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:background="@*android:drawable/tab_indicator_ab_holo"
+            android:src="@drawable/icon_up">
+        </ImageButton>
+
+    </RelativeLayout>
+	
+	 <View
+           android:layout_width="fill_parent"
+           android:layout_height="1dp"
+           android:background="#e1e1e1"
+           />
+		   
+    <ListView android:id="@android:id/list"
+        android:divider="#e1e1e1"        
+		android:dividerHeight="1px" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="?android:attr/activatedBackgroundIndicator"
+        android:footerDividersEnabled="true"
+     />
+</LinearLayout>

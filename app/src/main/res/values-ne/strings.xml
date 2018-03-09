@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">Hello World, QRDFileExplorer!</string>
+<string name="app_name">फाइल अन्वेषक</string>
+<string name="app_name_dir_sel">फोल्डर चयन गर्नुहोस्</string>
+<string name="app_name_file_sel">फाइलहरू चयन गर्नुहोस्</string>
+<string name="up">माथि</string>
+<string name="menu_copy">प्रतिलिपि बनाउनुहोस्</string>
+<string name="menu_move">सार्नुहोस्</string>
+<string name="menu_delete">मेट्नुहोस्</string>
+<string name="menu_detail">विवरणहरू</string>
+<string name="menu_rename">पुनःनामाकरण गर्नुहोस्</string>
+<string name="menu_share">साझेदारी</string>
+<string name="menu_property">विशेषताहरू</string>
+<string name="menu_setto">यसमा सेट गर्नुहोस्</string>
+<string name="menu_setto_ringtone">रिङ्टोनमा सेट गर्नुहोस्</string>
+<string name="menu_exit">बाहिर</string>
+<string name="menu_mulsel">सबैलाई चयन गर्नुहोस्</string>
+<string name="sort_name_asc">नाम अनुसार बढ्दो क्रममा राख्नुहोस्</string>
+<string name="sort_name_dec">नाम अनुसार घट्दो क्रममा राख्नुहोस्</string>
+<string name="sort_type_asc">प्रकार अनुसार बढ्दो क्रममा राख्नुहोस्</string>
+<string name="sort_type_dec">प्रकार अनुसार घट्दो क्रममा राख्नुहोस्</string>
+<string name="sort_size_asc">आकार अनुसार बढ्दो क्रममा राख्नुहोस्</string>
+<string name="sort_size_dec">आकार अनुसार घट्दो क्रममा राख्नुहोस्</string>
+<string name="sort_time_asc">समय अनुसार बढ्दो क्रममा राख्नुहोस्</string>
+<string name="sort_time_dec">समय अनुसार घट्दो क्रममा राख्नुहोस्</string>
+<string name="menu_add_favorite">मनपर्नेमा थप्नुहोस्</string>
+<string name="menu_rm_favorite">मनपर्नेबाट हटाउनुहोस्</string>
+<string name="context_menu_name">फाइल विकल्पहरू</string>
+<string name="dialog_deleting_confirm">तपाईं मेटाउन निश्चित हुनुहुन्छ?</string>
+<string name="dialog_overwrite_confirm">तपाईंले फाइल %s लाई उल्लङ्घन गर्न चाहनुहुन्छ?</string>
+<string name="dialog_rename_title">कृपया नयाँ नाम इन्पुट गर्नुहोस्।</string>
+<string name="dialog_space_not_enough">पर्याप्त खाली ठाउँ छैन, कृपया पहिले यसलाई खाली गर्नुहोस्।</string>
+<string name="toast_operate_failed">सञ्चालन गर्न असफल भयो</string>
+<string name="progress_title">प्रतिक्षा गर्दै</string>
+<string name ="progress_copy_title">टास्दैं</string>
+<string name ="progress_move_title">सरिँदै</string>
+<string name ="progress_delete_title">मेटाउँदै</string>
+<string name ="phone_storage">फोन भण्डारण</string>
+<string name="internal_storage">आन्तरिक भण्डारण</string>
+<string name ="sdcard">SD कार्ड</string>
+<string name="storage_sd_card">SD कार्ड</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB भण्डारण</string>
+<string name="storage_uicc">UICC भण्डारण</string>
+<string name="property_info_total">कूल: </string>
+<string name="property_info_available">उपलब्ध: </string>
+<string name="format_file_info">नामः %1$s\r\nपथ: %2$s\r\nपरिमार्जित: %3$s\r\nआकार: %4$s</string>
+<string name="format_property_info">आन्तरिक भण्डारण\r\nकूल: %1$s\r\nउपलब्ध: %2$s\r\n------------------\r\nSD कार्ड\r\nकूल: %3$s\r\nउपलब्ध: %4$s\r\n------------------\r\nUSB\r\nकूल: %5$s\r\nउपलब्ध: %6$s</string>
+<string name="menu_new_folder">नयाँ फोल्डर</string>
+<string name="new_folder">नयाँ फोल्डर बनाउनुहोस्</string>
+<string name="btn_ok">ठीक छ</string>
+<string name="btn_paste">टाँस्नुहोस्</string>
+<string name="btn_cancel">रद्द गर्नुहोस्</string>
+<string name="toast_select_files">कृपया फाइलहरू चयन गर्नुहोस्।</string>
+<string name="toast_no_sd">कुनै SD कार्ड छैन</string>
+<string name="toast_no">अहँ \u0020</string>
+<string name="toast_file_exists">सञ्चालन असफल भयो फाइल विद्यमान छ।</string>
+<string name="toast_file_not_exists">सञ्चालन असफल भयो फाइल विद्यमान छैन।</string>
+<string name="toast_file_setto_ringtone_successed">रिङ्गटोन सेट गर्ने सफल भयो</string>
+<string name="open_as">यस रूपमा खोल्नुहोस्:</string>
+<string name="type_text">पाठ</string>
+<string name="type_audio">अडियो</string>
+<string name="type_video">भिडियो</string>
+<string name="type_image">तस्बिर</string>
+<string name="toast_filename_too_long">सञ्चालन असफल भयो फाइलको नाम एकदमै लामो छ।</string>
+<string name="toast_delete_success">सफलतापूर्वक मेटाउनुहोस्</string>
+<string name="category">कोटी</string>
+<string name="folder">फोल्डर</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">संगीत</string>
+<string name="video">भिडियो</string>
+<string name="image">तस्बिर</string>
+<string name="doc">कागजात</string>
+<string name="archive">अभिलेख</string>
+<string name="apk">APK</string>
+<string name="favorite">मनपर्ने</string>
+<string name="toast_new_success">सफलतापूर्वक सिर्जना गर्नुहोस्</string>
+<string name="toast_filename_empty">सञ्चालन असफल भयो तपाईमको फाइलको नाम खाली हुनुहुँदैन</string>
+<string name="toast_activity_not_found">यो फाइल खोल्नको लागि एप्लिकेसन फेला पार्न सकिँदैन</string>
+<string name="select_all">सबैलाई चयन गर्नुहोस्</string>
+<string name="deselect_all">सबैको चयन हटाउनुहोस्</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d चयन गरियो</item>
+    <item quantity="one">%1$d चयन गरियो</item>
+    <item quantity="other">%1$d चयन गरियो</item>
+</plurals>
+<string name="folder_name_reach_max_hint">इन्पुटको लम्बाइ %1$d वर्ण भन्दा लामो हुनुहुँदैन !</string>
+<string name="load_warning">लोड हुँदैछ...</string>
+<string name="str_err_internal_storage_cannot_access"> &quot;भण्डारणलाई अनमाउन्ट गरियो, पहुँच गर्न सकिँदैन&quot;</string>
+<string name="str_err_sdcard_cannot_access"> &quot;Sd कार्डलाई अनमाउन्ट गरियो, पहुँच गर्न सकिँदैन। कृपया Sd कार्ड जाँच गर्नुहोस्।&quot;</string>
+<string name = "menu_sort">क्रमबद्ध गर्नुहोस्</string>
+<string name = "sort_title">यसद्वारा क्रमवद्घ गर्नुहोस्</string>
+<string name = "no_space">पर्याप्त खाली ठाउँ छैन, कृपया यसलाई पहिले खाली गर्नुहोस्</string>
+<string name = "menu_show">लुकाइएका फाइलहरू देखाउनुहोस्</string>
+<string name = "menu_hide">लुकाइएका फाइलहरू लुकाउनुहोस्</string>
+</resources>

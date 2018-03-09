@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2012-2013, Qualcomm Technologies, Inc.  All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+-->
+<resources>
+<string name="app_name">文件管理</string>
+<string name="app_name_dir_sel">選取文件夾</string>
+<string name="app_name_file_sel">選取文件</string>
+<string name="sdcard">SD卡</string>
+<string name="up">向上</string>
+<string name="menu_copy">複制</string>
+<string name="menu_move">移動</string>
+<string name="menu_delete">刪除</string>
+<string name="menu_rename">更名</string>
+<string name="menu_share">分享</string>
+<string name="menu_property">屬性</string>
+<string name="menu_exit">退出</string>
+<string name="context_menu_name">文件選項</string>
+<string name="dialog_deleting_confirm">確認刪除?</string>
+<string name="dialog_overwrite_confirm">確認覆蓋文件: %s?</string>
+<string name="dialog_rename_title">請輸入新名稱.</string>
+<string name="toast_operate_failed">操作失敗!</string>
+<string name="progress_title">等待</string>
+<string name="info_copy_file">正在複制文件...</string>
+<string name="info_move_file">正在移動文件...</string>
+<string name="info_deleting_file">正在刪除文件...</string>
+<string name="storage_sd_card">SD 卡</string>
+<string name="storage_usb">USB 存儲</string>
+<string name="storage_uicc">UICC 存儲</string>
+<string name="internal_storage">內部存儲空間</string>
+<string name="format_file_info">名稱: %1$s\r\n路徑: %2$s\r\n修改日期: %3$s\r\n大小: %4$s</string>
+<string name="format_property_info">系統空間\r\n全部: %1$s\r\n剩餘: %2$s\r\n------------------\r\nSD 卡\r\n全部: %3$s\r\n剩餘: %4$s\r\n------------------\r\nUSB\r\n全部: %5$s\r\n剩餘: %6$s</string>
+<string name="menu_new_folder">新建</string>
+<string name="new_folder">新建文件夾</string>
+<string name="btn_ok">確認</string>
+<string name="btn_paste">粘帖</string>
+<string name="btn_cancel">取消</string>
+<string name="category">分類</string>
+<string name="folder">文件夾</string>
+<string name="music">音樂</string>
+<string name="video">視頻</string>
+<string name="image">圖片</string>
+<string name="doc">文檔</string>
+<string name="archive">壓縮文件</string>
+<string name="apk">Android安装包</string>
+<string name="favorite">收藏夾</string>
+<string name="toast_select_files">請選取文件</string>
+<string name="toast_no_sd">未檢測到SD卡</string>
+<string name="toast_no">無 </string>
+<string name="toast_file_exists">操作失敗!文件已存在.</string>
+<string name="toast_file_not_exists">操作失敗!文件不存在.</string>
+<string name="toast_delete_success">"刪除成功"</string>
+<string name="toast_new_success">"新建成功"</string>
+<string name="toast_filename_empty">操作失敗!文件名不能爲空.</string>
+<string name="toast_activity_not_found">"找不到應用程式打開此文件."</string>
+</resources>

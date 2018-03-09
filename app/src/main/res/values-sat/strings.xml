@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">ᱡᱚᱦᱟᱨ ᱫᱩᱱᱤᱭᱮ, QRD ᱨᱮᱫ ᱡᱷᱤᱡ!</string>
+<string name="app_name">ᱨᱮᱫ ᱡᱷᱤᱡ ᱢᱮ</string>
+<string name="app_name_dir_sel">ᱯᱷᱹᱚᱞᱰᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ</string>
+<string name="app_name_file_sel">ᱨᱮᱫ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ</string>
+<string name="up">ᱪᱮᱛᱟᱱ</string>
+<string name="menu_copy">ᱱᱚᱠᱚᱞ</string>
+<string name="menu_move">ᱥᱚᱨᱟᱣ</string>
+<string name="menu_delete">ᱢᱮᱴᱟᱣ</string>
+<string name="menu_detail">ᱵᱤᱵᱚᱨᱚᱱ</string>
+<string name="menu_rename">ᱧᱩᱛᱩᱢ ᱟᱨᱩ</string>
+<string name="menu_share">ᱦᱟᱴᱤᱧ</string>
+<string name="menu_property">ᱜᱩᱱ ᱠᱚ</string>
+<string name="menu_setto">ᱵᱮᱭᱥᱮᱣ ᱢᱮ</string>
+<string name="menu_setto_ringtone">ᱨᱤᱸᱜᱴᱚᱱ ᱵᱮᱭᱥᱮᱣ ᱢᱮ</string>
+<string name="menu_exit">ᱵᱟᱦᱨᱮ</string>
+<string name="menu_mulsel">ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ</string>
+<string name="sort_name_asc">ᱧᱩᱛᱩᱢ ᱥᱩᱡᱷᱤ ᱛᱮ</string>
+<string name="sort_name_dec">ᱧᱩᱛᱩᱢ ᱥᱤᱨᱜᱮᱫ ᱛᱮ</string>
+<string name="sort_type_asc">ᱚᱞ ᱥᱩᱡᱷᱤ ᱛᱮ</string>
+<string name="sort_type_dec">ᱚᱞ ᱥᱤᱨᱜᱮᱫ ᱛᱮ</string>
+<string name="sort_size_asc">ᱥᱟᱭᱤᱡ ᱥᱩᱡᱷᱤ ᱛᱮ</string>
+<string name="sort_size_dec">ᱥᱟᱭᱤᱡ ᱥᱤᱜᱮᱫ ᱛᱮ</string>
+<string name="sort_time_asc">ᱥᱚᱢᱚᱭ ᱥᱩᱡᱷᱤ ᱛᱮ</string>
+<string name="sort_time_dec">ᱥᱚᱢᱚᱭ ᱥᱤᱜᱮᱫ ᱛᱮ</string>
+<string name="menu_add_favorite">ᱠᱷᱩᱥᱤᱭᱟᱜ ᱨᱮ ᱥᱮᱞᱮᱫ</string>
+<string name="menu_rm_favorite">ᱠᱷᱩᱥᱤᱭᱟᱜ ᱠᱷᱚᱱ ᱚᱪᱚᱜ</string>
+<string name="context_menu_name">ᱨᱮᱫ ᱵᱤᱠᱟᱞᱯ</string>
+<string name="dialog_deleting_confirm">ᱟᱢ ᱜᱚᱴᱟ ᱟᱠᱟᱫᱟ ᱟᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱡᱚᱛᱚ ᱥᱟᱹᱥᱤᱭᱮ ᱠᱚ ᱱᱚᱣᱟ ᱜᱩᱥᱴᱤ ᱨᱮ ᱢᱮᱴᱟᱣ ᱞᱟᱜᱤᱫ?</string>
+<string name="dialog_overwrite_confirm">ᱢᱮᱱᱟᱜ-ᱟᱜ ᱨᱮᱫ ᱪᱮᱛᱟᱱ ᱨ</string>
+<string name="dialog_rename_title">ᱱᱚᱦᱚᱨ ᱱᱟᱣᱟ ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ.</string>
+<string name="dialog_space_not_enough">ᱱᱚᱸᱰᱮ ᱫᱚ ᱞᱟᱛᱤᱭᱟᱜ ᱡᱟᱭᱜᱟ ᱵᱟᱱᱩ-ᱟ, ᱱᱮᱦᱚᱨ ᱥᱟᱯᱷᱹᱟ ᱞᱟᱦᱟᱭ ᱢᱮ.</string>
+<string name="toast_operate_failed">ᱠᱟᱹᱢᱤ ᱫᱚ ᱰᱤᱜᱷᱮᱱᱟ!</string>
+<string name="progress_title">ᱛᱟᱱᱜᱤ</string>
+<string name ="progress_copy_title">ᱥᱚᱛᱟᱜ ᱠᱟᱱᱟ</string>
+<string name ="progress_move_title">ᱥᱚᱨᱚᱜ ᱠᱟᱱᱟ</string>
+<string name ="progress_delete_title">ᱢᱮᱴᱟᱜ ᱠᱟᱱᱟ</string>
+<string name ="phone_storage">ᱯᱷᱹᱚᱱ ᱵᱟᱭᱡᱟᱭᱜᱟ</string>
+<string name="internal_storage">ᱵᱷᱤᱛᱨᱤ ᱵᱟᱭᱡᱟᱭᱜᱟ</string>
+<string name ="sdcard">SD ᱠᱟᱨᱰ</string>
+<string name="storage_sd_card">SD ᱠᱟᱨᱰ</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB ᱵᱟᱭᱡᱟᱭᱜᱟ</string>
+<string name="storage_uicc">UICC ᱵᱟᱭᱡᱟᱭᱜᱟ</string>
+<string name="property_info_total">ᱢᱩᱴ: </string>
+<string name="property_info_available">ᱟᱢᱚᱜ ᱠᱟᱱᱟ: </string>
+<string name="format_file_info">ᱧᱩᱛᱩᱢ: %1$s\r\nhᱰᱟᱦᱟᱨ: %2$s\r\npHerawag %3$s\r\n ᱥᱟᱭᱤᱡ: %4$s</string>
+<string name="format_property_info">ᱵᱷᱤᱛᱨᱤ ᱡᱚᱜᱟ ᱡᱟᱭᱜᱟ\r\nmOt %1$s\r\nᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ: %2$s\r\n------------------\r\nSD ᱠᱟᱨᱰ\r\nᱢᱚᱴ: %3$s\r\nᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ: %4$s\r\n------------------\r\nUSB\r\nᱢᱚᱴ: %5$s\r\nᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ: %6$s</string>
+<string name="menu_new_folder">ᱱᱟᱣᱟ ᱯᱷᱹᱚᱞᱰᱚᱨ</string>
+<string name="new_folder">ᱵᱤᱱᱟᱣ ᱢᱮ ᱱᱟᱣᱟ ᱯᱷᱹᱚᱞᱰᱚᱨ</string>
+<string name="btn_ok">OK</string>
+<string name="btn_paste">ᱥᱚᱛᱟᱣ</string>
+<string name="btn_cancel">ᱢᱩᱪᱮᱫ</string>
+<string name="toast_select_files">ᱱᱮᱦᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱨᱮᱫ ᱠᱚ</string>
+<string name="toast_no_sd">SD ᱠᱟᱨᱰ ᱵᱟᱱᱩᱜ-ᱟ</string>
+<string name="toast_no">ᱵᱟᱱᱩᱜ-ᱟ\u0020</string>
+<string name="toast_file_exists">ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱰᱤᱜᱷᱮᱣᱱᱟ. ᱯᱟᱦᱤᱞ ᱠᱷᱚᱱ ᱨᱮᱫ ᱢᱮᱱᱟᱜ-ᱟ.</string>
+<string name="toast_file_not_exists">ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱰᱤᱜᱷᱮᱣᱱᱟ. ᱯᱟᱦᱤᱞ ᱠᱷᱚᱱ ᱨᱮᱫ ᱫᱚ ᱵᱟᱱᱩᱜ-ᱟ.</string>
+<string name="toast_file_setto_ringtone_successed">ᱨᱤᱸᱜᱴᱚᱱ ᱫᱚ ᱱᱟᱯᱟᱭ ᱛᱮ ᱵᱮᱭᱥᱮᱣ ᱟᱠᱟᱱᱟ</string>
+<string name="open_as">ᱡᱷᱤᱡ ᱞᱮᱠᱟ</string>
+<string name="type_text">ᱟᱠᱷᱚᱨ</string>
+<string name="type_audio">ᱚᱰᱤᱭᱳ</string>
+<string name="type_video">ᱣᱤᱰᱤᱭᱳ</string>
+<string name="type_image">ᱪᱤᱛᱟᱹᱨ</string>
+<string name="toast_filename_too_long">ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱰᱤᱜᱷᱮᱣᱱᱟ. ᱨᱮᱫ ᱧᱩᱛᱩᱢ ᱫᱚ ᱟᱭᱢᱟ ᱡᱷᱮᱞ ᱜᱮᱭᱟ.</string>
+<string name="toast_delete_success">ᱢᱮᱴᱟᱣ ᱥᱮᱛᱱᱟ</string>
+<string name="category">ᱛᱷᱚᱠ</string>
+<string name="folder">ᱯᱷᱹᱚᱞᱰᱚᱨ</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">ᱨᱟᱡᱟᱱ~ᱵᱟᱡᱚᱱ</string>
+<string name="video">ᱣᱤᱰᱤᱭᱳ</string>
+<string name="image">ᱪᱤᱛᱟᱹᱨ</string>
+<string name="doc">ᱠᱟᱜᱚᱡ</string>
+<string name="archive">ᱛᱩᱢᱮ</string>
+<string name="apk">APK</string>
+<string name="favorite">ᱠᱷᱩᱥᱤᱭᱟᱜ</string>
+<string name="toast_new_success">ᱵᱤᱱᱟᱣ ᱥᱮᱛᱱᱟ</string>
+<string name="toast_filename_empty">ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱰᱤᱜᱷᱮᱣᱱᱟ. ᱨᱮᱫ ᱧᱩᱛᱩᱢ ᱫᱚ ᱵᱟᱝ ᱠᱷᱟᱞᱤ ᱛᱟᱦᱮᱱ ᱢᱟᱜ.</string>
+<string name="toast_activity_not_found">ᱱᱚᱣᱟ ᱨᱮᱫ ᱡᱷᱤᱡ ᱞᱟᱜᱤᱫ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱫᱚ ᱵᱟᱱᱩᱜ-ᱟ</string>
+<string name="select_all">ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ</string>
+<string name="deselect_all">ᱡᱚᱛᱚ ᱵᱮᱵᱟᱪᱷᱟᱣ</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ</item>
+    <item quantity="one">%1$d ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ</item>
+    <item quantity="other">%1$d ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ</item>
+</plurals>
+<string name="folder_name_reach_max_hint">ᱟᱫᱮᱨ ᱟᱠᱟᱫᱟᱜ ᱡᱷᱮᱞ ᱫᱚ %1$d ᱠᱷᱚᱱ ᱠᱚᱢ ᱜᱮᱭᱟ!</string>
+<string name="load_warning">ᱵᱷᱟᱨᱤᱜ ᱠᱟᱱᱟ..</string>
+<string name="str_err_internal_storage_cannot_access"> ᱵᱟᱭᱡᱟᱜᱟ ᱫᱚ ᱵᱟᱝ ᱛᱚᱞ ᱟᱠᱟᱱᱟ, ᱵᱟᱝ ᱮᱢ ᱜᱷᱟᱛ ᱫᱟᱲᱤᱭᱟᱜ-ᱟ.&quot;</string>
+<string name="str_err_sdcard_cannot_access"> SD ᱠᱟᱨᱰ ᱫᱚ ᱵᱟᱝ ᱛᱚᱞ ᱟᱠᱟᱱᱟ, ᱵᱝ ᱮᱢ ᱜᱷᱟᱛ ᱫᱟᱲᱤᱭᱜᱟ-ᱟ. ᱱᱮᱦᱚᱨ SD ᱠᱟᱨᱫ ᱧᱮᱞ ᱢᱮ.&quot;</string>
+<string name = "menu_sort">ᱠᱷᱟᱴᱚ</string>
+<string name = "sort_title">ᱫᱟᱨᱟᱭ ᱛᱮ ᱠᱷᱟᱴᱚ</string>
+<string name = "no_space">ᱱᱚᱸᱰ ᱫᱚ ᱵᱟᱲᱛᱤ ᱡᱟᱭᱜᱟ ᱵᱟᱱᱩᱜ-ᱟ, ᱱᱮᱦᱚᱨ \r\n\t\t\t\t\t  ᱥᱟᱯᱷᱹᱟ ᱞᱟᱦᱟᱭ ᱢᱮ.</string>
+<string name = "menu_show">ᱩᱠᱩ ᱨᱮᱫ ᱠᱚ ᱥᱚᱫᱚᱨ</string>
+<string name = "menu_hide">ᱩᱠᱩ ᱨᱮᱫ ᱠᱚ ᱥᱚᱫᱚᱨ</string>
+</resources>

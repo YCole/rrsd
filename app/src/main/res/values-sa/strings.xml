@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">विश्वं नमस्कारः, QRD सञ्चिकाविवरिणका!</string>
+<string name="app_name">सञ्चिकाविवरिणका</string>
+<string name="app_name_dir_sel">सम्पुटं चीयताम्</string>
+<string name="app_name_file_sel">सञ्चिकान् चीयन्ताम्</string>
+<string name="up">उपरि</string>
+<string name="menu_copy">प्रतिलिप्यताम्</string>
+<string name="menu_move">प्रचाल्यताम्</string>
+<string name="menu_delete">लुप्यताम्</string>
+<string name="menu_detail">विवरणानि</string>
+<string name="menu_rename">नामपरिवर्तनम्</string>
+<string name="menu_share">सभाज्यताम्</string>
+<string name="menu_property">गुणधर्मान्</string>
+<string name="menu_setto">परिवर्त्यताम्</string>
+<string name="menu_setto_ringtone">ध्वनिसूचनाकृते परिवर्त्यताम्</string>
+<string name="menu_exit">निष्क्राम्यताम्</string>
+<string name="menu_mulsel">सर्वान् चीयन्ताम्</string>
+<string name="sort_name_asc">नाम आरोहीक्रमे</string>
+<string name="sort_name_dec">नाम अवरोहीक्रमे</string>
+<string name="sort_type_asc">प्रकारम् आरोहीक्रमे</string>
+<string name="sort_type_dec">प्रकारम् अवरोहीक्रमे</string>
+<string name="sort_size_asc">आकारम् आरोहीक्रमे</string>
+<string name="sort_size_dec">आकारम् अवरोहीक्रमे</string>
+<string name="sort_time_asc">समयम् आरोहीक्रमे</string>
+<string name="sort_time_dec">समयम् अवरोहीक्रमे</string>
+<string name="menu_add_favorite">इष्टे युज्यताम्</string>
+<string name="menu_rm_favorite">इष्टात् लुप्यताम्</string>
+<string name="context_menu_name">सञ्चिकाः विकल्पाः</string>
+<string name="dialog_deleting_confirm">लोपकृते सुनिश्चिताः?</string>
+<string name="dialog_overwrite_confirm">किं सञ्चिकायाम् अधिलेखनम् इच्छति %s?</string>
+<string name="dialog_rename_title">कृपया नूतननाम निविश्यताम्।</string>
+<string name="dialog_space_not_enough">पर्याप्तस्थानं न वर्तते, कृपया सर्वप्रथमं रिक्तीक्रियताम्।</string>
+<string name="toast_operate_failed">संचालनं विफलम्!</string>
+<string name="progress_title">प्रतीक्षारतः</string>
+<string name ="progress_copy_title">न्यासनम्</string>
+<string name ="progress_move_title">संचरणम्</string>
+<string name ="progress_delete_title">लोपनम्</string>
+<string name ="phone_storage">चलभाषभण्डारणम्</string>
+<string name="internal_storage">अन्तःभंडारणम्</string>
+<string name ="sdcard">SD कार्ड</string>
+<string name="storage_sd_card">SD कार्ड</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB भंडारणम्</string>
+<string name="storage_uicc">UICC भण्डारः</string>
+<string name="property_info_total">कुलः </string>
+<string name="property_info_available">उपलब्धः </string>
+<string name="format_file_info">नाम: %1$s\r\nपथः %2$s\r\nपरिवर्तितम् : %3$s\r\n आकारः %4$s</string>
+<string name="format_property_info">अन्तःभण्डारणस्य \r\n योगः %1$s\r\n उपलब्धः %2$s\r\n------------------\r\nSD कार्ड\r\n योगः %3$s\r\n उपलब्धः %4$s\r\n------------------\r\nUSB\r\n योगः %5$s\r\n उपलब्धः %6$s</string>
+<string name="menu_new_folder">नूतनसंपुटः</string>
+<string name="new_folder">नूतनसंपुटं निर्मीयताम्</string>
+<string name="btn_ok">नुदताम्</string>
+<string name="btn_paste">न्यस्यताम्</string>
+<string name="btn_cancel">निरस्यताम्</string>
+<string name="toast_select_files">कृपया सञ्चिकां चीयताम्</string>
+<string name="toast_no_sd">SD-कार्ड् नास्ति</string>
+<string name="toast_no">न कोऽपि \u0020</string>
+<string name="toast_file_exists">संचालनं विफलम्। सञ्चिका विद्यमाना वर्तते।</string>
+<string name="toast_file_not_exists">संचालनं विफलम्। सञ्चिका अविद्यमाना वर्तते।</string>
+<string name="toast_file_setto_ringtone_successed">ध्वनिसंकेतसमायोजनं सफलीकृतम्</string>
+<string name="open_as">इति रूपे उद्घाटयतु</string>
+<string name="type_text">पाठ्यम्</string>
+<string name="type_audio">श्रव्यः</string>
+<string name="type_video">दृश्यः</string>
+<string name="type_image">चित्रम्</string>
+<string name="toast_filename_too_long">संचालनं विफलम्। सञ्चिकानाम दीर्घं वर्तते।</string>
+<string name="toast_delete_success">सफलतापूर्वक हटा</string>
+<string name="category">श्रेणी</string>
+<string name="folder">संपुटः</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">संगीतः</string>
+<string name="video">दृश्यः</string>
+<string name="image">चित्रम्</string>
+<string name="doc">वर्ड्-सञ्चिका</string>
+<string name="archive">पुरालेखः</string>
+<string name="apk">APK</string>
+<string name="favorite">इष्टः</string>
+<string name="toast_new_success">साफल्येन निर्मितम्</string>
+<string name="toast_filename_empty">संचालनं विफलम्। सञ्चिका नाम रिक्तं न शक्यते।</string>
+<string name="toast_activity_not_found">सञ्चिकाम् उद्घाटनाय अनुप्रयोगं प्राप्तुं न शक्यते?</string>
+<string name="select_all">सर्वान् चीयन्ताम्</string>
+<string name="deselect_all">सर्वान् न चीयन्ताम्</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d  चितम्</item>
+    <item quantity="one">%1$d  चितम्</item>
+    <item quantity="other">%1$d  चितम्</item>
+</plurals>
+<string name="folder_name_reach_max_hint">सन्निवेशः संरचना %1$d इत्येतैः अक्षरैः दीर्घं न भवेत्!</string>
+<string name="load_warning">परिवर्तयति...</string>
+<string name="str_err_internal_storage_cannot_access"> &quot;भण्डारणम् अस्थापितम्, प्रयोक्तुं न शक्यते।&quot;</string>
+<string name="str_err_sdcard_cannot_access"> &quot;Sd कार्ड अस्थापितम्, प्रयोक्तुं न शक्यते। कृपया Sd कार्ड सुनिश्चयीक्रियताम्।&quot;</string>
+<string name = "menu_sort">परिवर्त्यताम्</string>
+<string name = "sort_title">एवंविधं परिवर्त्यताम्</string>
+<string name = "no_space">तत्र पर्याप्तस्थानं न वर्तते, कृपया \r\n\t\t\t\t\t सर्वप्रथमं रिक्तीक्रियताम्</string>
+<string name = "menu_show">अदृश्यसञ्चिकान् दृश्यताम्</string>
+<string name = "menu_hide">अदृश्यसञ्चिकान् गोप्यताम्</string>
+</resources>

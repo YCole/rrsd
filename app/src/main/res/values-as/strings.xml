@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">হেল্লো ৱৰ্ল্ড, QRDFileExplorer!</string>
+    <string name="app_name">ফাইল এক্সপ্লৰাৰ</string>
+    <string name="app_name_dir_sel">ফ\'ল্ডাৰ বাছনি কৰক</string>
+    <string name="app_name_file_sel">ফাইলসমূহ নিৰ্বাচন কৰক</string>
+    <string name="up">ওপৰলৈ</string>
+    <string name="menu_copy">প্ৰতিলিপি</string>
+    <string name="menu_move">স্থানান্তৰ</string>
+    <string name="menu_delete">মচি দিয়ক</string>
+    <string name="menu_detail">বিৱৰণ</string>
+    <string name="menu_rename">পুনঃনামাকৰণ</string>
+    <string name="menu_share">ছেয়াৰ</string>
+    <string name="menu_property">ধৰ্মবোৰ</string>
+    <string name="menu_setto">ছেট কৰক</string>
+    <string name="menu_setto_ringtone">ৰিংট\'নলৈ ছেট কৰক</string>
+    <string name="menu_exit">প্ৰস্থান</string>
+    <string name="menu_mulsel">আটাইবোৰ বাচনি কৰক</string>
+    <string name="sort_name_asc">নাম উৰ্দ্বক্ৰমত</string>
+    <string name="sort_name_dec">নাম অধ:ক্ৰমত</string>
+    <string name="sort_type_asc">প্ৰকাৰ উৰ্দ্বক্ৰমত</string>
+    <string name="sort_type_dec">প্ৰকাৰ অধ:ক্ৰমত</string>
+    <string name="sort_size_asc">আকাৰ উৰ্দ্বক্ৰমত</string>
+    <string name="sort_size_dec">আকাৰ অধ:ক্ৰমত</string>
+    <string name="sort_time_asc">সময় উৰ্দ্বক্ৰমত</string>
+    <string name="sort_time_dec">সময় অধ:ক্ৰমত</string>
+    <string name="menu_add_favorite">ফেভাৰিটত যোগ কৰক</string>
+    <string name="menu_rm_favorite">প্ৰিয়ৰ পৰা আঁতৰাওক</string>
+    <string name="context_menu_name">ফাইলৰ বিকল্পসমূহ</string>
+    <string name="dialog_deleting_confirm">আপুনি বিলোপ কৰাটো নিশ্চিতনে?</string>
+    <string name="dialog_overwrite_confirm">আপুনি ফাইল %s টো অধিলেখন কৰিব বিচাৰে নে?</string>
+    <string name="dialog_rename_title">অনুগ্ৰহ কৰি নতুন নাম ইনপুট কৰক।</string>
+    <string name="dialog_space_not_enough">পৰ্যাপ্ত ঠাই নাই, অনুগ্ৰহ কৰি প্ৰথমে পৰিস্কাৰ কৰক।</string>
+    <string name="toast_operate_failed">কাৰ্য ব্যৰ্থ হ\'ল!</string>
+    <string name="progress_title">অপেক্ষা কৰি আছে</string>
+    <string name="progress_copy_title">লেপন কৰি আছে</string>
+    <string name="progress_move_title">চলাচল কৰি আছে</string>
+    <string name="progress_delete_title">মচি আছে</string>
+    <string name="phone_storage">ফোন ষ্টোৰেজ</string>
+    <string name="internal_storage">ইন্টাৰনেল ষ্টোৰেজ</string>
+    <string name="sdcard">SD কাৰ্ড</string>
+    <string name="storage_sd_card">SD কাৰ্ড</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">USB ষ্ট\'ৰেজ</string>
+    <string name="storage_uicc">UICC ষ্ট\'ৰেজ</string>
+    <string name="property_info_total">মুঠ:</string>
+    <string name="property_info_available">উপলব্ধ:</string>
+    <string name="format_file_info">“নাম: %1$s পথ: %2$s সংশোধিত: %3$s আকাৰ: %4$s&quot;</string>
+    <string name="format_property_info">“মুঠ আভ্যন্তৰীণ ষ্ট\'ৰেজ: %1$s উপলব্ধ: %2$s ------------------ SD কাৰ্ডৰ মুঠ: %3$s উপলব্ধ: %4$s ------------------ USB-ৰ মুঠ: %5$s উপলব্ধ: %6$s&quot;</string>
+    <string name="menu_new_folder">নতুন ফল্ডাৰ</string>
+    <string name="new_folder">এটা নতুন ফ\'ল্ডাৰ সৃষ্টি কৰক</string>
+    <string name="btn_ok">ঠিক</string>
+    <string name="btn_paste">পেষ্ট কৰক</string>
+    <string name="btn_cancel">নাকচ</string>
+    <string name="toast_select_files">অনুগ্ৰহ কৰি ফাইল বাছনি কৰক</string>
+    <string name="toast_no_sd">SD কাৰ্ড নাই</string>
+    <string name="toast_no">“নহয়  &quot;</string>
+    <string name="toast_file_exists">কাৰ্য ব্যৰ্থ হ\'ল। ফাইল বিদ্যমান।</string>
+    <string name="toast_file_not_exists">কাৰ্য ব্যৰ্থ হ\'ল। ফাইল মজুত নাই।</string>
+    <string name="toast_file_setto_ringtone_successed">ৰিংট\'ন ছেট সফল</string>
+    <string name="open_as">হিচাপে খোলক</string>
+    <string name="type_text">টেক্সট</string>
+    <string name="type_audio">অডিঅ\'</string>
+    <string name="type_video">ভিডিঅ\'</string>
+    <string name="type_image">ইমেজ</string>
+    <string name="toast_filename_too_long">কাৰ্য ব্যৰ্থ হ\'ল। ফাইলৰ নাম বেছি দীঘল।</string>
+    <string name="toast_delete_success">সফলভাবে মচি দিয়া হল</string>
+    <string name="category">কেটেগৰী</string>
+    <string name="folder">ফ\'ল্ডাৰ</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">মিউজিক</string>
+    <string name="video">ভিডিঅ\'</string>
+    <string name="image">ইমেজ</string>
+    <string name="doc">নথিপত্র</string>
+    <string name="archive">লেখ্যাগাৰ</string>
+    <string name="apk">APK</string>
+    <string name="favorite">প্ৰিয়</string>
+    <string name="toast_new_success">সফলতাৰে সৃষ্টি কৰা হ\'ল</string>
+    <string name="toast_filename_empty">কাৰ্য ব্যৰ্থ হ\'ল। ফাইলৰ নাম ৰিক্ত হ\'ব নোৱাৰে।</string>
+    <string name="toast_activity_not_found">“এই ফাইলটো খুলিবলৈ এটা প্ৰয়োগ পোৱা নাই”</string>
+    <string name="select_all">আটাইবোৰ বাচনি কৰক</string>
+    <string name="deselect_all">সকলোবোৰ অনা নিৰ্বাচন কৰক</string>
+    <string name="folder_name_reach_max_hint">ইনপুটৰ দৈৰ্ঘ্য %1$d টা বৰ্ণতকৈ ডাঙৰ নহয়!</string>
+    <string name="load_warning">লোডিং….</string>
+    <string name="str_err_internal_storage_cannot_access">ষ্ট\'ৰেজ স্থাপন কৰা হোৱা নাই, প্ৰৱেশ কৰিব নোৱাৰি।</string>
+    <string name="str_err_sdcard_cannot_access">Sd কাৰ্ড স্থাপন কৰা হোৱা নাই, প্ৰৱেশ কৰিব নোৱাৰি। অনুগ্ৰহ কৰি Sd কাৰ্ড পৰীক্ষা কৰক।</string>
+    <string name="menu_sort">ক্ৰম কৰক</string>
+    <string name="sort_title">সজাই লওঁক</string>
+    <string name="no_space">“পৰ্যাপ্ত ঠাই নাই, অনুগ্ৰহ কৰি প্ৰথমে \u0009\u0009\u0009\u0009\u0009 পৰিস্কাৰ কৰক”</string>
+    <string name="menu_show">লুকাই থকা ফাইলসমূহ দেখুৱাওক</string>
+    <string name="menu_hide">লুকাই থকা ফাইলসমূহ লুকুৱাওক</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">মিছা</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">মিছা</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">মিছা</item>
+</resources>

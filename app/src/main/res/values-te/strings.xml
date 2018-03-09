@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">హల్లో వర్ల్డ్, QRDFileExplorer!</string>
+    <string name="app_name">ఫైల్ అన్వేషిత</string>
+    <string name="app_name_dir_sel">ఫోల్డర్ ను ఎంచుకోండి</string>
+    <string name="app_name_file_sel">ఫైల్స్ ను ఎంచుకోండి</string>
+    <string name="up">పైకి</string>
+    <string name="menu_copy">కాపీ చేయి</string>
+    <string name="menu_move">తరలించు</string>
+    <string name="menu_delete">తొలగించు</string>
+    <string name="menu_detail">వివరాలు</string>
+    <string name="menu_rename">పేరు మార్చు</string>
+    <string name="menu_share">పంచుకోవడం</string>
+    <string name="menu_property">లక్షణాలు</string>
+    <string name="menu_setto">కు సెట్ చేయి</string>
+    <string name="menu_setto_ringtone">రింగ్‌టో‌న్‌కు సెట్ చేయి</string>
+    <string name="menu_exit">నిష్క్రమించండి</string>
+    <string name="menu_mulsel">అన్నీ ఎంచుకోండి</string>
+    <string name="sort_name_asc">పేరు ద్వారా పై నుండి</string>
+    <string name="sort_name_dec">పేరు ద్వారా కింది నుండి</string>
+    <string name="sort_type_asc">రకం ద్వారా పై నుండి</string>
+    <string name="sort_type_dec">రకం ద్వారా కింది నుండి</string>
+    <string name="sort_size_asc">సైజ్ ద్వారా పై నుండి</string>
+    <string name="sort_size_dec">సైజ్ ద్వారా కింది నుండి</string>
+    <string name="sort_time_asc">సమయం ద్వారా పై నుండి</string>
+    <string name="sort_time_dec">సమయం ద్వారా కింది నుండి</string>
+    <string name="menu_add_favorite">ఇష్టాంశాలకు జోడించు</string>
+    <string name="menu_rm_favorite">ఇష్టాంశం నుంచి తీసివెయ్యండి</string>
+    <string name="context_menu_name">ఫైల్ ఎంపికలు</string>
+    <string name="dialog_deleting_confirm">తొలగించాలనుకుంటున్నారా?</string>
+    <string name="dialog_overwrite_confirm">ఫైల్ %s పై తిరిగి రాయాలనుకుంటున్నారా?</string>
+    <string name="dialog_rename_title">దయచేసి కొత్త పేరును ఇన్పుట్ చేయండి.</string>
+    <string name="dialog_space_not_enough">తగినంత ఖాళీ స్థలం లేదు, దయచేసి మొదట శుభ్రం చేయండి.</string>
+    <string name="toast_operate_failed">ఆపరేట్ విఫలమైంది!</string>
+    <string name="progress_title">వేచి ఉంది</string>
+    <string name="progress_copy_title">అతికిస్తోంది</string>
+    <string name="progress_move_title">తరలించడం</string>
+    <string name="progress_delete_title">తొలగించబడినవి</string>
+    <string name="phone_storage">ఫోన్ నిల్వ</string>
+    <string name="internal_storage">అంతర్గత నిల్వ</string>
+    <string name="sdcard">SD కార్డు</string>
+    <string name="storage_sd_card">SD కార్డు</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">USB నిల్వ</string>
+    <string name="storage_uicc">UICC నిల్వ</string>
+    <string name="property_info_total">మొత్తం:</string>
+    <string name="property_info_available">అందుబాటులోఉంది:</string>
+    <string name="format_file_info">&quot;పేరు: %1$s మార్గము: %2$s సవరించబడినది: %3$s సైజ్: %4$s&quot;</string>
+    <string name="format_property_info">&quot;మొత్తం లోపలి స్టోరేజ్: %1$s అందుబాటులో ఉంది: %2$s ------------------ SD కార్డ్ మొత్తం: %3$s అందుబాటులో ఉంది: %4$s ------------------ USB మొత్తం: %5$s అందుబాటులో ఉంది: %6$s&quot;</string>
+    <string name="menu_new_folder">కొత్త ఫోల్డర్</string>
+    <string name="new_folder">కొత్త ఫోల్డర్ ఏర్పరచు</string>
+    <string name="btn_ok">సరే</string>
+    <string name="btn_paste">అతికించు</string>
+    <string name="btn_cancel">రద్దు చేయి</string>
+    <string name="toast_select_files">దయచేసి ఫైల్ ను ఎంచుకోండి</string>
+    <string name="toast_no_sd">SD కార్డు లేదు</string>
+    <string name="toast_no">&quot;లేదు &quot;</string>
+    <string name="toast_file_exists">ఆపరేట్ విఫలమైంది. ఫైల్ అమలులోఉంది.</string>
+    <string name="toast_file_not_exists">ఆపరేట్ విఫలమైంది. ఫైల్ లేదు.</string>
+    <string name="toast_file_setto_ringtone_successed">రింగ్‌టో‌న్‌ను సెట్ చేయడం విజయవంతమైంది</string>
+    <string name="open_as">గా తెరువు</string>
+    <string name="type_text">పాఠం</string>
+    <string name="type_audio">ఆడియో</string>
+    <string name="type_video">వీడియో</string>
+    <string name="type_image">చిత్రం</string>
+    <string name="toast_filename_too_long">ఆపరేట్ విఫలమైంది. ఫైల్ పేరు చాలా పెద్దదిగా ఉంది.</string>
+    <string name="toast_delete_success">తొలగింపు విజయవంతమైంది</string>
+    <string name="category">కేటగిరీ</string>
+    <string name="folder">ఫోల్డర్</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">సంగీతం</string>
+    <string name="video">వీడియో</string>
+    <string name="image">చిత్రం</string>
+    <string name="doc">డాక్</string>
+    <string name="archive">ఆర్కైవ్ చేయి</string>
+    <string name="apk">APK</string>
+    <string name="favorite">ఇష్టమైనవి</string>
+    <string name="toast_new_success">విజయవంతంగా సృష్టించండి</string>
+    <string name="toast_filename_empty">ఆపరేట్ విఫలమైంది. ఫైల్ పేరు ఖాళీగ ఉండకూడదు.</string>
+    <string name="toast_activity_not_found">“ఈ ఫైలును తెరవడానికి తగిన యాప్‍న్ని కనుగొనడం కుదరలేదు”</string>
+    <string name="select_all">అన్నీ ఎంచుకోండి</string>
+    <string name="deselect_all">అన్నీ తొలగించు</string>
+    <string name="folder_name_reach_max_hint">ఇన్‍పుట్ యొక్క నిడివి %1$d క్యారెక్టర్ కన్నా ఎక్కువ లేదు !</string>
+    <string name="load_warning">లోడ్ అవుతోంది...</string>
+    <string name="str_err_internal_storage_cannot_access">స్టోరేజ్ అన్ మౌంట్ చేయబడింది, యాక్సెస్ చేయలేము.</string>
+    <string name="str_err_sdcard_cannot_access">Sd కార్డ్ అన్ మౌంట్ చేయబడింది, యాక్సెస్ చేయలేము. దయచేసి Sd కార్డ్ తనిఖీ చేయండి.</string>
+    <string name="menu_sort">సార్ట్</string>
+    <string name="sort_title">దీనిద్వారా క్రమబద్ధీకరణ</string>
+    <string name="no_space">&quot;తగినంత ఖాళీ లేదు, దయచేసి మొదట \u0009\u0009\u0009\u0009\u0009ఖాళీ చేయండి&quot;</string>
+    <string name="menu_show">అదృశ్య ఫైళ్ళను చూపుము</string>
+    <string name="menu_hide">అదృశ్య ఫైళ్ళను దాయి</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">తప్పు</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">తప్పు</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">తప్పు</item>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2011,2013 Qualcomm Technologies, Inc.  All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+  -->
+<RelativeLayout    
+         xmlns:android="http://schemas.android.com/apk/res/android" 
+         android:layout_width="fill_parent"
+         android:layout_height="60px"
+         android:minHeight="@dimen/folder_item_height"
+         android:background="?android:attr/activatedBackgroundIndicator"
+        >
+         <RelativeLayout
+            android:id="@+id/icon_file"
+            android:layout_centerVertical="true"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="20dp">
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_height="38dp"
+                android:layout_width="38dp"
+                android:scaleType="centerInside"
+                android:layout_gravity="center_vertical"
+                android:layout_centerInParent="true"/>
+            <ImageView
+                android:id="@+id/favorite_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/icon_favorite"
+                android:visibility="gone"/>
+         </RelativeLayout>
+         <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/icon_file"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp">
+                <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:singleLine="true"
+                       android:ellipsize="marquee"
+                       android:focusableInTouchMode="true"
+                       android:textAppearance="?android:attr/textAppearanceMedium"
+                       android:id="@+id/text">
+                 </TextView>
+                 <TextView
+                       android:layout_height="wrap_content"
+                       android:layout_width="wrap_content"
+                       android:layout_below="@id/text"
+                       android:singleLine="true"
+                       android:textAppearance="?android:attr/textAppearanceSmall"
+                       android:visibility="gone"
+                       android:id="@+id/info">
+                 </TextView>
+                 <TextView
+                       android:layout_height="wrap_content"
+                       android:layout_width="wrap_content"
+                       android:layout_below="@id/text"
+                       android:layout_toRightOf="@id/info"
+                       android:layout_marginLeft="10dp"
+                       android:singleLine="true"
+                       android:textAppearance="?android:attr/textAppearanceSmall"
+                       android:id="@+id/ext_info">
+                 </TextView>
+        </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2011-2013,2017, Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">Hello World, QRDFileExplorer!</string>
+<string name="app_name">File Explorer</string>
+<string name="app_name_dir_sel">Select the folder</string>
+<string name="app_name_file_sel">Select files</string>
+<string name="up">Up</string>
+<string name="menu_copy">Copy</string>
+<string name="menu_move">Move</string>
+<string name="menu_delete">Delete</string>
+<string name="menu_detail">Details</string>
+<string name="menu_rename">Rename</string>
+<string name="menu_share">Share</string>
+<string name="menu_property">Properties</string>
+<string name="menu_setto">SetTo</string>
+<string name="menu_setto_ringtone">Set to ringtone</string>
+<string name="menu_exit">Exit</string>
+<string name="menu_mulsel">Select all</string>
+<string name="sort_name_asc">By name asc</string>
+<string name="sort_name_dec">By name dec</string>
+<string name="sort_type_asc">By type asc</string>
+<string name="sort_type_dec">By type dec</string>
+<string name="sort_size_asc">By size asc</string>
+<string name="sort_size_dec">By size dec</string>
+<string name="sort_time_asc">By time asc</string>
+<string name="sort_time_dec">By time dec</string>
+<string name="menu_add_favorite">Add to Favorite</string>
+<string name="menu_rm_favorite">Remove from Favorite</string>
+<string name="context_menu_name">File options</string>
+<string name="dialog_deleting_confirm">Are you sure to delete?</string>
+<string name="dialog_overwrite_confirm">Do you want overwrite the file %s?</string>
+<string name="dialog_rename_title">Please input the new name.</string>
+<string name="dialog_space_not_enough">There is no enough space, please clean it first.</string>
+<string name="toast_operate_failed">Operate failed!</string>
+<string name="progress_title">Waiting</string>
+<string name ="progress_copy_title">Pasting</string>
+<string name ="progress_move_title">Moving</string>
+<string name ="progress_delete_title">Deleting</string>
+<string name ="phone_storage">Phone storage</string>
+<string name="internal_storage">Internal storage</string>
+<string name ="sdcard">SD card</string>
+<string name="storage_sd_card">SD card</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB storage</string>
+<string name="storage_uicc">UICC storage</string>
+<string name="property_info_total">Total: </string>
+<string name="property_info_available">Available: </string>
+    <string name="format_file_info">"Name: %1$s
+Path: %2$s
+Modified: %3$s
+Size: %4$s"</string>
+    <string name="format_property_info">"Internal storage
+Total: %1$s
+Available: %2$s
+------------------
+SD Card
+Total: %3$s
+Available: %4$s
+------------------
+USB
+Total: %5$s
+Available: %6$s"</string>
+
+
+<string name = "menu_file">Menu</string>
+<string name = "ftp">FTP</string>
+
+<string name="menu_new_folder">New folder</string>
+<string name="new_folder">Create a new folder</string>
+<string name="btn_ok">OK</string>
+<string name="btn_paste">Paste</string>
+<string name="btn_cancel">Cancel</string>
+<string name="toast_select_files">Please select files</string>
+<string name="toast_no_sd">No SD card</string>
+    <string name="toast_no">"No  "</string>
+<string name="toast_file_exists">Operate failed. File exists.</string>
+<string name="toast_file_not_exists">Operate failed. File does not exist.</string>
+<string name="toast_file_setto_ringtone_successed">Set Ringtone Successed</string>
+<string name="open_as">Open as</string>
+<string name="type_text">Text</string>
+<string name="type_audio">Audio</string>
+<string name="type_video">Video</string>
+<string name="type_image">Image</string>
+<string name="toast_filename_too_long">Operate failed. File name is too long.</string>
+<string name="toast_delete_success">Delete successfully</string>
+<string name="category">Category</string>
+<string name="folder">Folder</string>
+    <string name="category_num">(%1$s)</string>
+<string name="music">Music</string>
+<string name="video">Video</string>
+<string name="image">Image</string>
+<string name="doc">Doc</string>
+<string name="archive">Archive</string>
+<string name="apk">APK</string>
+<string name="favorite">Favorite</string>
+<string name="toast_new_success">Create successfully</string>
+<string name="toast_filename_empty">Operate failed. File name can not be empty.</string>
+    <string name="toast_activity_not_found">"Can't find an application to open this file"</string>
+<string name="select_all">Select all</string>
+<string name="deselect_all">Deselect all</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d selected</item>
+    <item quantity="one">%1$d selected</item>
+    <item quantity="other">%1$d selected</item>
+</plurals>
+<string name="folder_name_reach_max_hint">The length of input is not longer than %1$d character !</string>
+<string name="load_warning">Loading...</string>
+    <string name="str_err_internal_storage_cannot_access">Storage unmounted,Can not access.</string>
+    <string name="str_err_sdcard_cannot_access">Sd card unmounted,Can not access.Please check Sd card.</string>
+    <string name="menu_sort">Sort</string>
+    <string name="sort_title">Sort by</string>
+    <string name="no_space">"There's not enough space, please
+\u0009\u0009\u0009\u0009\u0009clean it first"</string>
+    <string name="menu_show">Show hidden files</string>
+    <string name="menu_hide">Hide hidden files</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">false</item>
+	
+	<!-- <string name="app_name">FTP-START</string> -->
+<string name="swiftp_name_free">FTP Server (Free)</string>
+<string name="swiftp_name_demo">FTP Server (Demo)</string>
+<string name="running_label">FTP Server</string>
+<string name="running_summary_stopped">FTP server is down</string>
+<string name="running_summary_started">at %s</string>
+<string name="running_summary_failed">
+Failed to start the FTP server, not connected to the local network (wifi or ethernet)?
+</string>
+<string name="running_summary_failed_to_get_ip_address">
+Failed to start the FTP server, unable to get IP address
+</string>
+<string name="market_version_label">Market version</string>
+<string name="settings_label">Settings</string>
+<string name="user_label">User</string>
+<string name="login_settings_label">Login settings...</string>
+<string name="username_label">Username</string>
+<string name="password_label">Password</string>
+<string name="show_password_label">Display password</string>
+<string name="username_validation_error">
+The password must consist of 1 or more alphanumeric characters. No other characters are allowed.
+</string>
+<string name="password_validation_error">
+The password must consist of 1 or more alphanumeric characters. No other characters are allowed.
+</string>
+<string name="anonymous_label">Anonymous</string>
+<string name="allow_anonymous_label">Allow anonymous login</string>
+<string name="anonymous_summary">Anonymous logins are only allowed read access</string>
+<string name="advanced_settings_label">Advanced settings...</string>
+<string name="port_number_label">Port Number</string>
+<string name="port_validation_error">The port number must be in the range 1 to 65535.</string>
+<string name="chroot_label">Stay in folder</string>
+<string name="accept_wifi_label">Accept connection from wifi</string>
+<string name="wakelock_label">Keep device awake (full CPU speed)</string>
+<string name="extra_label">Extra</string>
+<string name="help_label">Help...</string>
+<string name="about_label">About...</string>
+<string name="help_dlg_title">FTP Server Help</string>
+<string name="notification_server_starting">Starting at %s</string>
+<string name="notification_title">FTP Server is running</string>
+<string name="notification_text">at %s</string>
+<string name="notification_stop_text">Stop server</string>
+<string name="nsd_servername_postfix">FTP Server</string>
+<string name="select">Select</string>
+<string name="cancel">Cancel</string>
+<!--  auto added strings by AS  -->
+<string name="widget_name">FTP Server Widget</string>
+<string name="notif_settings_text">Settings</string>
+<string name="app_copyright">Copyright 2012 - 2017</string>
+<string name="app_url" translatable="false">https://ppareit.github.io/swiftp/</string>
+<string name="about_license_title">License</string>
+<string name="about_license_name">GNU GPL3</string>
+<string name="about_license_url" translatable="false">https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+<string name="about_description_title">Description</string>
+<string name="about_description_text">
+FTP Server (SwiFTP) allows you to run an ftp server on your android device.
+</string>
+<string name="about_libraries_title">Libraries</string>
+<string name="about_contributor_title">Contributors</string>
+<string name="about_contributor_list" translatable="false">
+Dave Revell, Alexander Friesen, tescott425, Peng Fei, MadMaverick9, j3l11234, Sergey Kondakov, Tianhao Wu, Lorenzo M, Naofumi Fukue, Valerio Bozzolan, Thomas Löwe, Mladen Pejaković, valentind44, Ashutosh Gangwar, Nicoss, Poussinou, Birgit Niemegeers
+</string>
+<string name="unable_to_start_mail_client">Unable to start mail client to send feedback.</string>
+<string name="use_english">Please use clear English!</string>
+<string name="ftp_name">FTP</string>
+ <string name="storage_warning">Warning: storage is not available. You may want to unmount it.</string>
+  <string name="nsd_servername_postfix">FTP Server</string>
+  
+  <string name="start_instruction">FTP Start</string>
+  <string name="open_wifi_connection">Open Wifi First</string>
+<!-- ConnectActivity -->
+<string name="start_instruction">After starting the remote management of mobile phone files from the computer</string>
+<string name="ftp_computer">Enter in the computer:</string>
+<string name="open_wifi_connection">Please connect wifi first</string>
+<string name="btn_start">Open</string>
+<string name="btn_close">Close</string>
+<string name="wifi_not_connected">Wifi is not connected</string>
+<string name="network_state">Network status\n%1$s</string>
+</resources>

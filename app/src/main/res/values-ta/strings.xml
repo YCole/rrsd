@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">ஹலோ உலகம், QRDஃபைல் எக்ஸ்புளோரர்!</string>
+    <string name="app_name">ஃபைல் எக்ஸ்புளோரர்</string>
+    <string name="app_name_dir_sel">ஃபோல்டரைத் தேர்ந்தெடு</string>
+    <string name="app_name_file_sel">கோப்புகளைத் தேர்ந்தெடு</string>
+    <string name="up">அப்</string>
+    <string name="menu_copy">நகலெடு</string>
+    <string name="menu_move">நகர்த்து</string>
+    <string name="menu_delete">நீக்கு</string>
+    <string name="menu_detail">விவரங்கள்</string>
+    <string name="menu_rename">மறுபெயரிடு</string>
+    <string name="menu_share">பகிர்</string>
+    <string name="menu_property">பண்புகள்</string>
+    <string name="menu_setto">செட்டூ</string>
+    <string name="menu_setto_ringtone">ரிங்டோனுக்கு அமைக்கவும்</string>
+    <string name="menu_exit">வெளியேறு</string>
+    <string name="menu_mulsel">எல்லாவற்றையும் தேர்ந்தெடு</string>
+    <string name="sort_name_asc">பெயரின்படி நேர்வரிசையில்</string>
+    <string name="sort_name_dec">பெயரின்படி தலைகீழ் வரிசையில்</string>
+    <string name="sort_type_asc">வகையின்படி நேர்வரிசையில்</string>
+    <string name="sort_type_dec">வகையின்படி தலைகீழ் வரிசையில்</string>
+    <string name="sort_size_asc">அளவின்படி நேர்வரிசையில்</string>
+    <string name="sort_size_dec">அளவின்படி தலைகீழ் வரிசையில்</string>
+    <string name="sort_time_asc">நேரத்தின்படி நேர்வரிசையில்</string>
+    <string name="sort_time_dec">நேரத்தின்படி தலைகீழ்வரிசையில்</string>
+    <string name="menu_add_favorite">பிடித்தவைக்குச் சேர்</string>
+    <string name="menu_rm_favorite">பிடித்தவையிலிருந்து அகற்று</string>
+    <string name="context_menu_name">கோப்புத் தெரிவுகள்</string>
+    <string name="dialog_deleting_confirm">நிச்சயமாக நீக்கலாமா?</string>
+    <string name="dialog_overwrite_confirm">%s ஆவணத்தின்மீது மேலெழுத விரும்புகிறீர்களா?</string>
+    <string name="dialog_rename_title">தயவுசெய்து புதிய பெயரை உள்ளிடவும்.</string>
+    <string name="dialog_space_not_enough">போதிய இடம் இல்லை, முதலில் இதை அழிக்கவும்.</string>
+    <string name="toast_operate_failed">ஆப்பரேட் தோல்வியுற்றது!</string>
+    <string name="progress_title">காத்திருக்கிறது</string>
+    <string name="progress_copy_title">ஒட்டுகிறது</string>
+    <string name="progress_move_title">நகர்த்துகிறது</string>
+    <string name="progress_delete_title">நீக்குகிறது</string>
+    <string name="phone_storage">தொலைப்பேசி சேமிப்பகம்</string>
+    <string name="internal_storage">அகச் சேமிப்பிடம்</string>
+    <string name="sdcard">SD கார்டு</string>
+    <string name="storage_sd_card">SD கார்டு</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICCO</string>
+    <string name="storage_usb">USB சேமிப்பகம்</string>
+    <string name="storage_uicc">UICC சேமிப்பகம்</string>
+    <string name="property_info_total">மொத்தம்:</string>
+    <string name="property_info_available">இருப்பது:</string>
+    <string name="format_file_info">“பெயர்: %1$s வழி: %2$s மாற்றப்பட்டது: %3$s அளவு: %4$s&quot;</string>
+    <string name="format_property_info">“உட்புற சேமிப்பக மொத்தம்: %1$s கிடைப்பவை: %2$s ------------------ SD கார்டு மொத்தம் %3$s கிடைப்பவை: %4$s ------------------ USB மொத்தம்: %5$s கிடைப்பவை: %6$s&quot;</string>
+    <string name="menu_new_folder">புதிய கோப்புறை</string>
+    <string name="new_folder">ஒரு புதிய ஃபோல்டரை உருவாக்கு</string>
+    <string name="btn_ok">சரி</string>
+    <string name="btn_paste">ஒட்டு</string>
+    <string name="btn_cancel">ரத்துசெய்</string>
+    <string name="toast_select_files">தயவுசேய்து கோப்புகளைத் தேர்ந்தெடு</string>
+    <string name="toast_no_sd">SD கார்டு இல்லை</string>
+    <string name="toast_no">“இல்லை”</string>
+    <string name="toast_file_exists">ஆப்பரேட் தோல்வியுற்றது. கோப்பு உள்ளது.</string>
+    <string name="toast_file_not_exists">ஆப்பரேட் தோல்வியுற்றது. ஃபைல் இடம்பெறவில்லை.</string>
+    <string name="toast_file_setto_ringtone_successed">செட் ரிங்டோன் வெற்றிபெற்றது</string>
+    <string name="open_as">இதுவாக திறக்கவும்</string>
+    <string name="type_text">உரை</string>
+    <string name="type_audio">ஆடியோ</string>
+    <string name="type_video">வீடியோ</string>
+    <string name="type_image">படிமம்</string>
+    <string name="toast_filename_too_long">ஆப்பரேட் தோல்வியுற்றது. ஃபைல் பெயர் மிக நீளம்.</string>
+    <string name="toast_delete_success">நீக்குதல் வெற்றியடைந்தது</string>
+    <string name="category">பிரிவு</string>
+    <string name="folder">கோப்பு</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">இசை</string>
+    <string name="video">வீடியோ</string>
+    <string name="image">படிமம்</string>
+    <string name="doc">டாக்</string>
+    <string name="archive">காப்பிடு</string>
+    <string name="apk">APK</string>
+    <string name="favorite">விருப்பம்</string>
+    <string name="toast_new_success">உருவாக்குதல் வெற்றி</string>
+    <string name="toast_filename_empty">ஆப்பரேட் தோல்வியுற்றது. ஃபைல் பெயர் காலியாக இருக்க முடியாது,.</string>
+    <string name="toast_activity_not_found">“இந்த ஃபைல் திறப்பதற்கான பயன்பாட்டை கண்டுபிடிக்க முடியவில்லை”</string>
+    <string name="select_all">எல்லாவற்றையும் தேர்ந்தெடு</string>
+    <string name="deselect_all">அனைத்தையும் தேர்வுநீக்கு</string>
+    <string name="folder_name_reach_max_hint">இன்புட் நீளம் %1$d எழுத்துக்கு மேல் நீளமாக இல்லை!</string>
+    <string name="load_warning">ஏற்றுகிறது...</string>
+    <string name="str_err_internal_storage_cannot_access">சேமிப்பகம் அன்மவுண்ட் செய்யப்பட்டது, அணுக முடியாது.</string>
+    <string name="str_err_sdcard_cannot_access">SD கார்டு அன்மவுண்ட் செய்யப்பட்டது, அணுக முடியாது, தயவுசெய்து SD கார்டை சரிபார்க்கவும்.</string>
+    <string name="menu_sort">வரிசைப்படுத்த</string>
+    <string name="sort_title">இதன்படி வரிசைப்படுத்து</string>
+    <string name="no_space">“போதிய இடம் இல்லை, தயவுசெய்து \u0009\u0009\u0009\u0009\u0009 இதை முதலில் சுத்தம் செய்யவும்”</string>
+    <string name="menu_show">மறைக்கப்பட்ட கோப்புகளை காண்பி</string>
+    <string name="menu_hide">மறைக்கப்பட்ட ஃபைல்களை மறைக்கவும்</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">தவறு</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">தவறு</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">தவறு</item>
+</resources>

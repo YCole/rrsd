@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc
+ */
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hello">ಹಲೋ ವರ್ಲ್ಡ್‌, QRD ಫೈಲ್ ಎಕ್ಸ್‌ಪ್ಲೋರರ್‌!</string>
+    <string name="app_name">ಫೈಲ್ ಎಕ್ಸ್‌ಪ್ಲೋರರ್</string>
+    <string name="app_name_dir_sel">ಫೋಲ್ಡರ್ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="app_name_file_sel">ಕಡತಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="up">ಮೇಲೆ</string>
+    <string name="menu_copy">ನಕಲಿಸು</string>
+    <string name="menu_move">ಸರಿಸಿ</string>
+    <string name="menu_delete">ಅಳಿಸು</string>
+    <string name="menu_detail">ವಿವರಗಳು</string>
+    <string name="menu_rename">ಮರುಹೆಸರಿಸು</string>
+    <string name="menu_share">ಹಂಚು</string>
+    <string name="menu_property">ಗುಣಲಕ್ಷಣಗಳು</string>
+    <string name="menu_setto">ಹೊಂದಿಸಿ</string>
+    <string name="menu_setto_ringtone">ರಿಂಗ್‌ಟೋನ್‌‌ ಹೊಂದಿಸಿ</string>
+    <string name="menu_exit">ನಿರ್ಗಮಿಸಿ</string>
+    <string name="menu_mulsel">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="sort_name_asc">ಹೆಸರಿನಿಂದ ಎಎಸ್‌ಸಿ</string>
+    <string name="sort_name_dec">ಹೆಸರಿನಿಂದ ಡಿಇಸಿ</string>
+    <string name="sort_type_asc">ವಿಧದಿಂದ ಎಎಸ್‌ಸಿ</string>
+    <string name="sort_type_dec">ವಿಧದಿಂದ ಡಿಇಸಿ</string>
+    <string name="sort_size_asc">ಗಾತ್ರದಿಂದ ಎಎಸ್‌ಸಿ</string>
+    <string name="sort_size_dec">ಗಾತ್ರದಿಂದ ಡಿಇಸಿ</string>
+    <string name="sort_time_asc">ಸಮಯದಿಂದ ಎಎಸ್‌ಸಿ</string>
+    <string name="sort_time_dec">ಸಮಯದಿಂದ ಡಿಇಸಿ</string>
+    <string name="menu_add_favorite">ಮೆಚ್ಚಿನದಕ್ಕೆ ಸೇರಿಸಿ</string>
+    <string name="menu_rm_favorite">ಮೆಚ್ಚಿನವುಗಳಿಂದ ತೆಗೆಯಿರಿ</string>
+    <string name="context_menu_name">ಕಡತ ಆಯ್ಕೆಗಳು</string>
+    <string name="dialog_deleting_confirm">ಅಳಿಸುವುದು ಖಚಿತವೇ?</string>
+    <string name="dialog_overwrite_confirm">%S ಫೈಲ್‌ ಅನ್ನು ಓವರ್‌ರೈಟ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?</string>
+    <string name="dialog_rename_title">ಹೊಸ ಹೆಸರನ್ನು ದಯವಿಟ್ಟು ನಮೂದಿಸಿ.</string>
+    <string name="dialog_space_not_enough">ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ, ದಯವಿಟ್ಟು ಮೊದಲು ಸ್ವಚ್ಛಗೊಳಿಸಿ.</string>
+    <string name="toast_operate_failed">ಕಾರ್ಯನಿರ್ವಹಣೆ ವಿಫಲವಾಗಿದೆ!</string>
+    <string name="progress_title">ಕಾಯುತ್ತಿದೆ</string>
+    <string name="progress_copy_title">ಅಂಟಿಸಿ</string>
+    <string name="progress_move_title">ಸರಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="progress_delete_title">ಅಳಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="phone_storage">ಫೋನ್‌ ಸ್ಟೊರೇಜ್</string>
+    <string name="internal_storage">ಆಂತರಿಕ ಸಂಗ್ರಹಣೆ</string>
+    <string name="sdcard">SD ಕಾರ್ಡ್</string>
+    <string name="storage_sd_card">SD ಕಾರ್ಡ್</string>
+    <string name="usb">USB</string>
+    <string name="uicc">UICC0</string>
+    <string name="storage_usb">USB ಸಂಗ್ರಹಣೆ</string>
+    <string name="storage_uicc">UICC ಸಂಗ್ರಹ</string>
+    <string name="property_info_total">ಒಟ್ಟು:</string>
+    <string name="property_info_available">ಲಭ್ಯ:</string>
+    <string name="format_file_info">“ಹೆಸರು: %1$s ದಾರಿ: %2$s ತಿದ್ದುಪಡಿ ಮಾಡಲಾಗಿದೆ: %3$s ಗಾತ್ರ: %4$s&quot;</string>
+    <string name="format_property_info">“ಆಂತರಿಕ ಸಂಗ್ರಹ ಮೊತ್ತ: %1$s ಲಭ್ಯ: %2$s ------------------ SD ಕಾರ್ಡ್‌ ಒಟ್ಟು: %3$s ಲಭ್ಯ: %4$s ------------------ USB‌ ಒಟ್ಟು: %5$s ಲಭ್ಯ: %6$s&quot;</string>
+    <string name="menu_new_folder">ಹೊಸ ಫೋಲ್ಡರ್</string>
+    <string name="new_folder">ಹೊಸ ಫೋಲ್ಡರ್‌ ರಚಿಸಿ</string>
+    <string name="btn_ok">ಸರಿ</string>
+    <string name="btn_paste">ಅಂಟಿಸಿ</string>
+    <string name="btn_cancel">ರದ್ದುಮಾಡು</string>
+    <string name="toast_select_files">ದಯವಿಟ್ಟು ಕಡತಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="toast_no_sd">SD ಕಾರ್ಡ್ ಇಲ್ಲ</string>
+    <string name="toast_no">“ಇಲ್ಲ”</string>
+    <string name="toast_file_exists">ಕಾರ್ಯನಿರ್ವಹಣೆ ವಿಫಲವಾಗಿದೆ. ಕಡತ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.</string>
+    <string name="toast_file_not_exists">ಕಾರ್ಯನಿರ್ವಹಣೆ ವಿಫಲವಾಗಿದೆ. ಫೈಲ್ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.</string>
+    <string name="toast_file_setto_ringtone_successed">ರಿಂಗ್‌ಟೋನ್ ಹೊಂದಿಸುವುದು ಯಶಸ್ವಿಯಾಗಿದೆ</string>
+    <string name="open_as">ಹೀಗೆಂದು ತೆರೆಯಿರಿ</string>
+    <string name="type_text">ಪಠ್ಯ</string>
+    <string name="type_audio">ಆಡಿಯೊ</string>
+    <string name="type_video">ವೀಡಿಯೊ</string>
+    <string name="type_image">ಇಮೇಜ್</string>
+    <string name="toast_filename_too_long">ಕಾರ್ಯನಿರ್ವಹಣೆ ವಿಫಲವಾಗಿದೆ. ಕಡತದ ಹೆಸರು ತುಂಬಾ ಉದ್ದವಾಗಿದೆ.</string>
+    <string name="toast_delete_success">ಅಳಿಸುವಿಕೆ ಯಶಸ್ವಿಯಾಗಿದೆ</string>
+    <string name="category">ವರ್ಗೀಕರಣ</string>
+    <string name="folder">ಫೋಲ್ಡರ್</string>
+    <string name="category_num">(%1$s)</string>
+    <string name="music">ಸಂಗೀತ</string>
+    <string name="video">ವೀಡಿಯೊ</string>
+    <string name="image">ಇಮೇಜ್</string>
+    <string name="doc">ದಾಖಲೆ</string>
+    <string name="archive">ಆರ್ಕೈವ್ ಮಾಡಿ</string>
+    <string name="apk">APK</string>
+    <string name="favorite">ಮೆಚ್ಚಿನ</string>
+    <string name="toast_new_success">ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಿ</string>
+    <string name="toast_filename_empty">ಕಾರ್ಯನಿರ್ವಹಣೆ ವಿಫಲವಾಗಿದೆ. ಕಡತದ ಹೆಸರು ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ.</string>
+    <string name="toast_activity_not_found">“ಈ ಕಡತ ತೆರೆಯಲು ಒಂದು ಅಪ್ಲಿಕೇಶನ್‌ ಅನ್ನು ಕಂಡುಕೊಳ್ಳಲಾಗಿಲ್ಲ”</string>
+    <string name="select_all">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="deselect_all">ಎಲ್ಲ ಆಯ್ಕೆ ತೆಗೆಯಿರಿ</string>
+    <string name="folder_name_reach_max_hint">ಇನ್‌ಪುಟ್‌ನ ಉದ್ದವು %1$d ಅಕ್ಷರಗಳಿಗಿಂತ ಉದ್ದವಾಗಿದೆ!</string>
+    <string name="load_warning">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="str_err_internal_storage_cannot_access">ಸಂಗ್ರಹ ಅನ್‌ಮೌಂಟ್ ಆಗಿದೆ, ಪ್ರವೇಶ ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="str_err_sdcard_cannot_access">Sd ಕಾರ್ಡ್‌ ಅನ್‌ಮೌಂಟ್ ಆಗಿದೆ, ಪ್ರವೇಶ ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು Sd ಕಾರ್ಡ್‌ ಚೆಕ್ ಮಾಡಿ.</string>
+    <string name="menu_sort">ವಿಂಗಡಿಸಿ</string>
+    <string name="sort_title">ಹೀಗೆ ವಿಂಗಡಿಸಿ</string>
+    <string name="no_space">“ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ, ದಯವಿಟ್ಟು \u0009\u0009\u0009\u0009\u0009ಇದನ್ನು ಮೊದಲು ಸ್ವಚ್ಛಗೊಳಿಸಿ”</string>
+    <string name="menu_show">ಗೌಪ್ಯ ಫೈಲ್‌ಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="menu_hide">ಗೌಪ್ಯ ಫೈಲ್‌ಗಳನ್ನು ಮರೆಮಾಡಿ</string>
+    <item type="string" name="APKTOOL_DUMMY_5a">ತಪ್ಪು</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">ತಪ್ಪು</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">ತಪ್ಪು</item>
+</resources>

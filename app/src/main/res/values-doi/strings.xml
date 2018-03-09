@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2017 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+ */
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="hello">हैलो वर्ल्ड, QRDFileExplorer!</string>
+<string name="app_name">फाइल एक्सप्लोरर</string>
+<string name="app_name_dir_sel">फोल्डर चुनो</string>
+<string name="app_name_file_sel">फाइलां चुनो</string>
+<string name="up">उप्पर</string>
+<string name="menu_copy">कॉपी</string>
+<string name="menu_move">इक थमां दुई थाह्र लेओ</string>
+<string name="menu_delete">हटाना</string>
+<string name="menu_detail">ब्यौरे</string>
+<string name="menu_rename">नांऽ परतियै लिक्खो</string>
+<string name="menu_share">साझा करो</string>
+<string name="menu_property">गुण</string>
+<string name="menu_setto">पर सेट करो</string>
+<string name="menu_setto_ringtone">रिंगटोन पर सेट करो</string>
+<string name="menu_exit">बाहर जाओ</string>
+<string name="menu_mulsel">सब्बै चुनो</string>
+<string name="sort_name_asc">नांऽ आसेआ एएससी</string>
+<string name="sort_name_dec">नांऽ आसेआ डीईसी</string>
+<string name="sort_type_asc">किस्म आसेआ एएससी</string>
+<string name="sort_type_dec">किस्म आसेआ डीईसी</string>
+<string name="sort_size_asc">आकार आसेआ एएससी</string>
+<string name="sort_size_dec">आकार आसेआ डीईसी</string>
+<string name="sort_time_asc">समें आसेआ एएससी</string>
+<string name="sort_time_dec">समें आसेआ डीईसी</string>
+<string name="menu_add_favorite">पसंदीदा लिस्ट च पाओ</string>
+<string name="menu_rm_favorite">पसंदीदा लिस्ट चा कड्डो</string>
+<string name="context_menu_name">फाइल विकल्प</string>
+<string name="dialog_deleting_confirm">क्या तुस वाकई हटाना चांह्दे ओ?</string>
+<string name="dialog_overwrite_confirm">क्या तुस फाइल %s पर ओवरराईट करना चांह्दे ओ?</string>
+<string name="dialog_rename_title">कृपया नमां नांऽ दर्ज करो</string>
+<string name="dialog_space_not_enough">कोई पर्याप्त जगह नेईं ऐ, कृपया पैह्ले इसी साफ करो।</string>
+<string name="toast_operate_failed">ऑपरेशन नाकाम!</string>
+<string name="progress_title">बलगेआ जा’रदा ऐ</string>
+<string name ="progress_copy_title">पेस्ट करना</string>
+<string name ="progress_move_title">चलना</string>
+<string name ="progress_delete_title">हटाना</string>
+<string name ="phone_storage">फोन स्टोरेज</string>
+<string name="internal_storage">अंदरूनी स्टोरेज</string>
+<string name ="sdcard">SD कार्ड</string>
+<string name="storage_sd_card">SD कार्ड</string>
+<string name="usb">USB</string>
+<string name="uicc">UICC0</string>
+<string name="storage_usb">USB स्टोरेज</string>
+<string name="storage_uicc">UICC स्टोरेज</string>
+<string name="property_info_total">कुलः </string>
+<string name="property_info_available">दस्तयाबः </string>
+<string name="format_file_info">नांऽ: %1$s\r\nबत्तः %2$S\r\nतरमीमीः %3$s\r\nआकारः %4$s</string>
+<string name="format_property_info">अंदरूनी स्टोरेज\r\nकुलः %1$S\r\nउपलब्धः %2$s\r\n------------------\r\nSD कार्ड\r\nकुलः %3$S\r\nउपलब्धः %4$s\r\n------------------\r\nUSB\r\nकुलः %5$S\r\nउपलब्धः %6$s</string>
+<string name="menu_new_folder">नमां फोल्डर</string>
+<string name="new_folder">इक नमां फोल्डर कायम करो</string>
+<string name="btn_ok">ठीक ऐ</string>
+<string name="btn_paste">चिपकाओ</string>
+<string name="btn_cancel">रद्द करना</string>
+<string name="toast_select_files">किरपा करियै फाइल दा चुनांऽ करो</string>
+<string name="toast_no_sd">कोई SD कार्ड नेईं</string>
+<string name="toast_no">नेईं \u0020</string>
+<string name="toast_file_exists">ऑपरेशन नाकाम। फाइल मौजूद ऐ।</string>
+<string name="toast_file_not_exists">ऑपरेशन नाकाम। फाइल मौजूद नेईं ऐ।</string>
+<string name="toast_file_setto_ringtone_successed">सेट रिंगटोन सफल</string>
+<string name="open_as">इस चाल्ली खोलो</string>
+<string name="type_text">टेक्स्ट</string>
+<string name="type_audio">आडियो</string>
+<string name="type_video">वीडियो</string>
+<string name="type_image">इमेज</string>
+<string name="toast_filename_too_long">ऑपरेशन नाकाम। फाइल दा नांऽ बड़ा लम्मां ऐ</string>
+<string name="toast_delete_success">सफलतापूर्वक हटाओ</string>
+<string name="category">श्रेणी</string>
+<string name="folder">फोल्डर</string>
+<string name="category_num">(<xliff:g id="FILE_num">%1$s</xliff:g>)</string>
+<string name="music">म्यूजिक</string>
+<string name="video">वीडियो</string>
+<string name="image">इमेज</string>
+<string name="doc">दस्तावेज</string>
+<string name="archive">संग्रैह</string>
+<string name="apk">APK</string>
+<string name="favorite">पसंदीदा</string>
+<string name="toast_new_success">सफलतापूर्वक बनाओ</string>
+<string name="toast_filename_empty">ऑपरेशन नाकाम। फाइल नांऽ खाली नेईं होई सकदा</string>
+<string name="toast_activity_not_found">इस फाइल गी खोलने लेई कोई एप्लिकेशन/नेईं मिली सकदा ऐ</string>
+<string name="select_all">सब्बै चुनो</string>
+<string name="deselect_all">सब्भनें गी अचिन्हिंत करो</string>
+<plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d चुनिंदा</item>
+    <item quantity="one">%1$d चुनिंदा</item>
+    <item quantity="other">%1$d चुनिंदा</item>
+</plurals>
+<string name="folder_name_reach_max_hint">इनपुट दी लंबाई %1$d वर्ण थमां मती नेईं ऐ!</string>
+<string name="load_warning">लोड होए करदा ऐ...</string>
+<string name="str_err_internal_storage_cannot_access"> &quot;स्टोरज अनमाउंट ऐ, ऐक्सस नेईं कीता जाई सकदा ऐ।”</string>
+<string name="str_err_sdcard_cannot_access"> &quot; Sd कार्ड अनमाउंट कीता गेआ, ऐक्सस नेईं कीता जाई सकदा ऐ। किरपा करियै Sd कार्ड जांचो।&quot;</string>
+<string name = "menu_sort">सार्ट करो</string>
+<string name = "sort_title">इसदे अनुसार क्रमबद्ध करो</string>
+<string name = "no_space">मनासब स्पेस/नेईं ऐ, किरपा करियै पैह्लें\\r\n\t\t\t\t\t इसी साफ करो</string>
+<string name = "menu_show">छपैलमिंयां फाइलां दिक्खो</string>
+<string name = "menu_hide">छपैलमिंयां फाइलां छपैलो</string>
+</resources>
